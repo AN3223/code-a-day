@@ -1,0 +1,21 @@
+plugins {
+    id 'java-library'
+}
+
+dependencies {
+    api 'org.apache.commons:commons-math3:3.6.1'
+
+    implementation 'com.google.guava:guava:23.0'
+    
+    compile group: 'org.springframework', name: 'spring-core', version: '5.0.7.RELEASE'
+    compile group: 'org.springframework', name: 'spring-context', version: '5.0.7.RELEASE'
+}
+
+repositories {
+    jcenter()
+}
+
+compileJava {
+  sourceCompatibility = '10.0'
+  targetCompatibility = '10.0'
+}
