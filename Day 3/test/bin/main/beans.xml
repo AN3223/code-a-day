@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+	
+	<bean class="library.ListenForStart" primary="true" id="start"></bean>
+	<bean id="stop" class="library.ListenForStop"></bean>
+	<bean id="close" class="library.ListenForClose">
+	</bean>
+	<bean id="refresh" class="library.ListenForRefresh"></bean>
+	<bean id="customEventListener"
+		class="library.CustomEventListener">
+	</bean>
+	<bean id="customEventPublisher"
+		class="library.CustomEventPublisher">
+	</bean>
+</beans>
