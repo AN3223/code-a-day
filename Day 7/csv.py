@@ -4,7 +4,7 @@ df = read_csv('10000 Sales Records.csv')
 # Selection syntax cheat sheet:
 # df[column]
 # df.loc[row, column]
-# df.iloc[column]
+# df.iloc[index]
 
 """ df.columns
 Index(['Region', 'Country', 'Item Type', 'Sales Channel', 'Order Priority',
