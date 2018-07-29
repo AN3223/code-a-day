@@ -21,7 +21,7 @@ console.log(`x = ${x}`)
 // Prints "x = 10", similar to f-strings in Python, nice
 
 console.log(typeof x)
-// Prints "number", similar to instanceof in Java, and isinstance in Python
+// Prints "number", similar to type() in Python
 
 console.log(Number("10") + Number("10"))  // Self explanatory
 console.log(+"10" + +"10")  // Same thing, different syntax
