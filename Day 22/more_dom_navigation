@@ -1,0 +1,12 @@
+// https://html.com/tables/
+
+table = document.getElementsByClassName("render")[1].firstChild
+console.log(table)  // [object HTMLTableElement]
+console.log(table.rows)  // [object HTMLCollection]
+
+for (let row = 0; row < table.rows.length; row++) {
+  for (let cell = 0; cell < table.rows[row].cells.length; cell++) {
+    alert(table.rows[row].cells[cell].innerHTML)
+  }
+}
+// Loops over the contents of all of the cells
