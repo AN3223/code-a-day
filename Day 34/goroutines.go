@@ -12,9 +12,10 @@ func asyncPrint(s string, wg *sync.WaitGroup) { // We take a reference to wg so 
 
 func main() {
 	var wg sync.WaitGroup // We create a WaitGroup
-
+	
+	wg.Add(2)
 	go asyncPrint("hello", &wg)
 	go asyncPrint("world", &wg)
-	wg.Add(2)
+	
 	wg.Wait() // We tell it to wait for 2 goroutines to finish
 }
