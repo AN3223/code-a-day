@@ -23,7 +23,7 @@ func List(xs ...int) Node {
 	return firstNode
 }
 
-func ListRepr(node *Node) string {
+func (node *Node) String() string {
 	repr := ""
 	for node != nil {
 		repr += strconv.Itoa(node.item)
@@ -36,6 +36,6 @@ func ListRepr(node *Node) string {
 }
 
 func main() {
-	xs := List(1,2,3)
-	fmt.Println(ListRepr(&xs))
+	xs := List(1, 2, 3)
+	fmt.Println(xs.String())
 }
