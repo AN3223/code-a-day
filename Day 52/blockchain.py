@@ -24,7 +24,6 @@ blockchain = [Block()]
 for i in range(1, 20):
     block_to_add = Block(i, blockchain[i - 1])
     blockchain.append(block_to_add)
-    previous_block = block_to_add
 
     print("Block #{} has been added to the blockchain!".format(block_to_add.index))
     print("Hash: {}\n".format(hex(block_to_add.hash)))
