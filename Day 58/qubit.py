@@ -3,6 +3,7 @@ from random import randrange
 
 class Qubit:
     """Quick and dirty representation of a qubit"""
+
     def __init__(self, x=0, y=0, z=-1):
         self.x = x
         self.y = y
@@ -13,9 +14,10 @@ class Qubit:
 
     def measure(self):
         if self.x + self.y == 0:
-            if self.z > 0:
+            if randrange(-100, 101) < self.z * 100:
                 return 1
-            return 0
+            else:
+                return 0
         return randrange(0, 2)
 
 
