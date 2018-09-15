@@ -7,5 +7,9 @@ binmapR f xs = let pairs = zip xs (drop 1 xs)
 
 printInput = getLine >>= putStrLn
 
+printInput' = do
+    x <- getLine
+    putStrLn x
+
 main = let result = binmapR (-) [1,2,3,4,5]
        in putStrLn (show result)
