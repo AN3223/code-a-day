@@ -1,0 +1,26 @@
+#rgb-list :nth-child(1) {
+    color: red;
+}
+
+#rgb-list :nth-child(2) {
+    color: green;
+}
+
+#rgb-list :nth-child(3) {
+    color: blue;
+}
+
+.white {
+    background-color: rgb(255,255,255);
+}
+
+.black {
+    background-color: #000000;
+}
+/*
+The #three rules overrides the .black rules,
+because IDs are more specific than classes
+*/
+#three {
+    background-color: yellow;
+}
