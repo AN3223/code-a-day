@@ -1,0 +1,65 @@
+@keyframes green-block-animation {
+    0% {
+        background-color: green;
+        width: var(--max-size);
+
+        top: var(--max-height);
+        left: var(--left-side);
+
+        transform: var(--recenter) rotate(0deg);
+    }
+
+    50% {
+        background-color: black;
+        width: var(--min-size);
+        
+        left: 50%;
+        top: 80%;
+
+        transform: var(--recenter) rotate(180deg);
+    }
+
+    100% {
+        background-color: green;
+        width: var(--max-size);
+
+        top: var(--max-height);
+        left: var(--right-side);
+
+        transform: var(--recenter) rotate(360deg);
+    }
+}
+
+#green-block {
+    --max-size: 30%;
+    --min-size: 10%;
+    --max-height: 35%;
+    
+    --left-side: 20%;
+    --right-side: calc(100% - var(--left-side));
+
+    animation-name: green-block-animation;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
+    animation-duration: 2s;
+}
+
+.square::after {
+    content: "";
+    display: block;
+    padding-bottom: 100%;
+}
+
+.center {
+    --recenter: translate(-50%, -50%);
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: var(--recenter);
+}
+
+body {
+    background-color: rgb(92, 0, 0);
+}
