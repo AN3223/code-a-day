@@ -13,10 +13,7 @@
         background-color: black;
         width: var(--min-size);
         
-        left: 50%;
         top: 80%;
-
-        transform: var(--recenter) rotate(180deg);
     }
 
     100% {
