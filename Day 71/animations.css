@@ -1,0 +1,59 @@
+@keyframes boomerang {
+    0% {
+        top: var(--max-height);
+        left: var(--left-side);
+        transform: var(--recenter) rotate(0deg);
+    }
+
+    50% {
+        top: var(--min-height);
+    }
+
+    100% {
+        top: var(--max-height);
+        left: var(--right-side);
+        transform: var(--recenter) rotate(360deg);
+    }
+}
+
+@keyframes green-black-green {
+    0% {
+        background-color: green;
+    }
+
+    50% {
+        background-color: black;
+    }
+
+    100% {
+        background-color: green;
+    }
+}
+
+@keyframes big-small-big {
+    0% {
+        width: var(--max-size);
+    }
+
+    50% {
+        width: var(--min-size);
+    }
+
+    100% {
+        width: var(--max-size);
+    }
+}
+
+@keyframes square-circle-square {
+    0% {
+        border-radius: 0%;
+    }
+
+    50% {
+        border-radius: 50%;
+    }
+
+    100% {
+        border-radius: 0%;
+    }
+}

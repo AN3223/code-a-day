@@ -1,0 +1,37 @@
+@import url("animations.css");
+
+
+#green-block {
+    --max-size: 25%;
+    --min-size: 10%;
+
+    --max-height: 35%;
+    --min-height: 75%;
+
+    --left-side: 20%;
+    --right-side: calc(100% - var(--left-side));
+
+    --defaults: ease-in-out none infinite alternate;
+    animation: boomerang 2s var(--defaults),
+        green-black-green 2s var(--defaults),
+        big-small-big 2.25s var(--defaults);
+}
+
+.square::after {
+    content: "";
+    display: block;
+    padding-bottom: 100%;
+}
+
+.center {
+    --recenter: translate(-50%, -50%);
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: var(--recenter);
+}
+
+body {
+    background-color: rgb(92, 0, 0);
+}
