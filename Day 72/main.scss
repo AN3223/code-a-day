@@ -1,0 +1,27 @@
+@import "animations.scss";
+@import "_partial.scss";
+
+
+#green-block {
+    @extend %center;
+
+    $defaults: ease-in-out none infinite alternate;
+    animation: boomerang 2s $defaults,
+        green-black-green 2s $defaults,
+        big-small-big 2.25s $defaults;
+}
+
+.square::after {
+    content: "";
+    display: block;
+    padding-bottom: 100%;
+}
+
+%center {
+    position: absolute;
+    transform: $recenter;
+}
+
+body {
+    background-color: rgb(92, 0, 0);
+}

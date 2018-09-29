@@ -1,0 +1,70 @@
+@import "_partial.scss";
+
+$max-size: 25%;
+$min-size: 10%;
+
+$max-height: 35%;
+$min-height: 70%;
+
+$left-side: 20%;
+$right-side: 80%;
+
+@keyframes boomerang {
+    0% {
+        top: $max-height;
+        left: $left-side;
+        transform: $recenter rotate(0deg);
+    }
+
+    50% {
+        top: $min-height;
+    }
+
+    100% {
+        top: $max-height;
+        left: $right-side;
+        transform: $recenter rotate(360deg);
+    }
+}
+
+@keyframes green-black-green {
+    0% {
+        background-color: green;
+    }
+
+    50% {
+        background-color: black;
+    }
+
+    100% {
+        background-color: green;
+    }
+}
+
+@keyframes big-small-big {
+    0% {
+        width: $max-size;
+    }
+
+    50% {
+        width: $min-size;
+    }
+
+    100% {
+        width: $max-size;
+    }
+}
+
+@keyframes square-circle-square {
+    0% {
+        border-radius: 0%;
+    }
+
+    50% {
+        border-radius: 50%;
+    }
+
+    100% {
+        border-radius: 0%;
+    }
+}
