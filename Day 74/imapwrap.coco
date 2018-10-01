@@ -1,0 +1,62 @@
+import imaplib
+from imaplib import IMAP4_SSL
+import email as email_module
+from contextlib import contextmanager
+
+USER = ""
+PASS = ""
+
+IMAP_SITES = {
+        "GMAIL": ("imap.gmail.com", 993)
+}
+
+
+def raise_if_error((err, ok)):
+    if err != "OK":
+        raise Exception(err)
+    else:
+        return ok
+
+
+def get_connection(site) = IMAP4_SSL(url, port) where:
+    url, port = IMAP_SITES[site.upper()]
+
+
+def get_ids(connection, charset=None, search="ALL"):
+    ids = connection.search(charset, search) |> raise_if_error
+    return ids[0].split()
+
+
+def get_raw_email(connection, id, msg_parts='(RFC822)') =
+    (id, msg_parts) |*> connection.fetch |> raise_if_error
+
+
+def parse_email(email) = 
+    email[0][1] |> email_module.message_from_bytes
+
+
+get_email = parse_email .. get_raw_email
+
+
+@contextmanager
+def connection_manager(connection, username, password, select="INBOX"):
+    """
+    Context manager that logs in and selects a mailbox on enter,
+    and closes the mailbox and logs out on exit.
+    """
+    connection.login(username, password)
+    connection.select(select)
+    try:
+        yield connection
+    finally:
+        connection.close()
+        connection.logout()
+
+
+connection = get_connection("GMAIL")
+gmail_manager = connection_manager$(connection)
+
+with gmail_manager(USER, PASS) as connection:
+    ids = connection |> get_ids
+    email = (connection, ids[0], '(SUBJECT)') |*> get_email
+    email |> print
