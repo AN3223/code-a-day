@@ -1,0 +1,149 @@
+import os
+import email
+import math
+from imapclient import IMAPClient
+from contextlib import contextmanager
+from fpbox import sum
+
+
+USER = ""
+PASS = ""
+
+
+def clear() = os.system(
+    'cls' if os.name == 'nt' else 'clear'
+)
+
+
+def get(obj, key):
+    try:
+        return obj[key]
+    except IndexError:
+        return None
+
+
+def columns() = os.get_terminal_size()[0]
+def lines() = os.get_terminal_size()[1]
+def terminal_seperator() = '-' * columns()
+
+
+def loading_screen():
+    viewport_y = lines() - 3
+
+    clear()
+    terminal_seperator() |> print
+
+    for line in range(viewport_y):
+        if line == viewport_y // 2:
+            center_print_pipes("L O A D I N G . . .")
+        else:
+            center_print_pipes()
+
+    terminal_seperator() |> print
+
+
+def elipsize(s, cutoff) = s[:cutoff - 3] + '...'
+
+
+def columnize(strings, sizes):
+    def fill_none(x) = str(x) if x is not None else ''
+    def limit(s, size) = s + ' ' * (size - len(s)) if len(s) <= size else elipsize(s, size)
+
+    result = []
+    for size, string in zip(sizes, strings):
+        result.append(string |> fill_none |> limit$(?, size))
+    return ' | '.join(result)
+
+
+def home_screen(client):
+    viewport_y = lines() - 4
+    fit_to_viewport = .[:viewport_y]
+
+    ids = client.search("ALL") |> reversed |> fit_to_viewport
+    folders = toplevel_folders(client)     |> fit_to_viewport
+
+    headers = fetch_headers(client, ids)
+    def tag(s) = map(.[s], headers)
+    subjects = "Subject" |> tag
+    dates =    "Date"    |> tag
+    froms =    "From"    |> tag
+
+    clear()
+    terminal_seperator() |> print
+
+    sizes = (16, 4, 20, 19, 18)
+    sized_columnize = columnize$(?, sizes)
+
+    column_titles = ("Folder", "ID", "Subject", "Date", "Sender")
+    column_titles |> sized_columnize |> left_print_pipes
+
+    for i in range(viewport_y):
+        folder =  get(folders, i)
+        id =      get(ids, i)
+        subject = get(subjects, i)
+        date =    get(dates, i)
+        from_ =   get(froms, i)
+
+        strings = (folder, id, subject, date, from_)
+        strings |> sized_columnize |> left_print_pipes
+
+    terminal_seperator() |> print
+
+
+def center_str(*args, **kwargs) = align_str(*args, **kwargs) |> sum
+def center_print(*args, **kwargs) = center_str(*args, **kwargs) |> print
+def center_print_pipes(*s) = center_print(*s, border='|')
+
+def left_str(*args, **kwargs) = align_str(*args, **kwargs) |> swap |> sum where:
+    swap = def ((a, b, c, d, e)) -> (a, c, b, d, e)
+def left_print(*args, **kwargs) = left_str(*args, **kwargs) |> print
+def left_print_pipes(*s) = left_print(*s, border='|')
+
+
+def align_str(*s, border=''):
+    viewport_x = columns() - len(border) * 2
+    s = ' '.join(s) if s else ''
+
+    seperator_l = ' ' * (viewport_x // 2 - len(s) // 2)
+    seperator_r = ' ' * (math.ceil(viewport_x / 2) - math.ceil(len(s) / 2))
+
+    return border, seperator_l, s, seperator_r, border
+
+
+def decode_mime_words(string) = ''.join(
+        map(decode_mime_word, decode_header(string))
+) where:
+    decode_header = email.header.decode_header
+
+
+@memoize(16)
+def decode_mime_word((word, encoding)) =
+    word.decode(encoding or 'utf8') if isinstance(word, bytes) else word
+
+
+@contextmanager
+def client_manager(host, username, password):
+    with IMAPClient(host=host) as client:
+        client.login(username, password)
+        yield client
+
+
+def fetch_headers(client, ids):
+    fetch = b"BODY[HEADER]"
+    response = client.fetch(ids, fetch)
+    return map(parse_header, ids) where:
+        parse_header = id -> response[id][fetch] |> email.message_from_bytes
+
+
+def toplevel_folders(client) =
+    client.list_folders() |> map$(third) where:
+        third = def ((x, y, z)) -> z
+
+
+if __name__ == '__main__':
+    loading_screen()
+    with client_manager("imap.gmail.com", USER, PASS) as client:
+        client.select_folder("INBOX")
+        home_screen(client)
+        input()
+
