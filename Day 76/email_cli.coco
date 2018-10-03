@@ -1,0 +1,206 @@
+import os
+import email
+import math
+from imapclient import IMAPClient
+from contextlib import contextmanager
+from fpbox import sum
+
+
+USER = ""
+PASS = ""
+HOST = "imap.gmail.com"
+COLUMN_SIZES = (16, 5, 20, 19, 30)
+COLUMN_TITLES = ("Folder", "ID", "Subject", "Date", "Sender")
+
+
+data Terminal:
+    """Collection of helper functions for working with the terminal"""
+    def columns() = os.get_terminal_size()[0]
+    def lines() = os.get_terminal_size()[1]
+    def seperator() = '-' * Terminal.columns()
+    def seperatorp() = Terminal.seperator() |> print
+
+
+data Align(border_l, fill_l, s, fill_r, border_r):
+    """Data structure for representing text alignment"""
+    def __str__(self) = self |> sum
+    def print(self) = str(self) |> print
+
+    def left((border_l, l, s, r, border_r)) =
+        Align(border_l, s, l, r, border_r)
+
+    def right((border_l, l, s, r, border_r)) =
+        Align(border_l, l, r, s, border_r)
+
+
+def printl(s) = align(s).left().print()
+def printr(s) = align(s).right().print()
+
+
+def align(*s, border='|'):
+    viewport_x = Terminal.columns() - len(border) * 2
+    s = ' '.join(s) if s else ''
+
+    fill_l = ' ' * (viewport_x // 2 - len(s) // 2)
+    fill_r = ' ' * (math.ceil(viewport_x / 2) - math.ceil(len(s) / 2))
+    return Align(border, fill_l, s, fill_r, border)
+
+
+def clear() = os.system(
+    'cls' if os.name == 'nt' else 'clear'
+)
+
+
+def loading_screen():
+    viewport_y = Terminal.lines() - 3
+
+    clear()
+    Terminal.seperatorp()
+    for line in range(viewport_y):
+        if line == viewport_y // 2:
+            align("L O A D I N G . . .").print()
+        else:
+            align().print()
+    Terminal.seperatorp()
+
+
+def home_screen(client, page=0):
+    viewport_y = Terminal.lines() - 4
+    cutoff = .[:viewport_y]
+
+    start = page * viewport_y
+    paged = .[start:start + viewport_y]
+
+    ids = fetch_ids(client) |> paged
+    folders = fetch_folders(client) |> cutoff
+    headers = fetch_headers(client, ids)
+
+    def tag(s) = map(.[s], headers)
+    subjects = "Subject" |> tag
+    dates =    "Date"    |> tag
+    froms =    "From"    |> tag
+
+    _print_home_screen(viewport_y, folders, ids, subjects, dates, froms)
+
+
+def _print_home_screen(rows, *columns):
+    def get_row_values(index) =
+        columns |> map$(x -> get(x, index) ?? "")
+
+    viewport_x = Terminal.columns() - 2
+    print_columnized = printl..limit$(viewport_x)..columnize$(COLUMN_SIZES)
+    print_row_values = print_columnized..get_row_values
+    
+    clear()
+    Terminal.seperatorp()
+    COLUMN_TITLES |> print_columnized
+    range(rows)   |> map$(print_row_values) |> consume
+    Terminal.seperatorp()
+
+
+def get(obj, key):
+    """
+    Safely slices an object, returns None in place of raising an IndexError
+    """
+    try:
+        return obj[key]
+    except IndexError:
+        return None
+
+
+def limit(size, s):
+    """
+    Force a string to a certain length. If it's too short, it will be brought to length
+    with spaces. If it's too long, it will be cut down with elipsis (...) at the end.
+
+    :param size: The cutoff point
+    :param s: The target string
+    :return: The limited string
+    """
+    if len(s) <= size:
+        return s + ' ' * (size - len(s))
+    else:
+        return s[:size - 3] + '...'
+
+
+def columnize(sizes, columns) = ' | '.join(
+        str(col) |> limit$(size) for size, col in zip(sizes, columns)
+)
+
+
+def decode_mime_words(string) = ''.join(
+        map(decode_mime_word, email.header.decode_header(string))
+)
+
+
+@memoize(16)
+def decode_mime_word((word, encoding)) =
+    word.decode(encoding or 'utf8') if isinstance(word, bytes) else word
+
+
+def parse_response(fetch, response, id) =
+    response[id][fetch] |> email.message_from_bytes
+
+
+def fetch_headers(client, ids):
+    fetch = b"BODY[HEADER]"
+    response = client.fetch(ids, fetch)
+    return map(parse_response$(fetch, response), ids)
+
+
+def fetch_emails(client, ids):
+    fetch = b"BODY[]"
+    response = client.fetch(ids, fetch)
+    return map(parse_response$(fetch, response), ids)
+
+
+def fetch_folders(client) =
+    client.list_folders() |> map$(third) where:
+        third = def ((x, y, z)) -> z
+
+
+def fetch_ids(client) = client.search("ALL") |> reversed
+
+
+def refresh(*args):
+    loading_screen()
+    home_screen(*args)
+
+
+def run_action(client, action):
+    case action:
+        match ":refresh" or ":r":
+            refresh(client)
+        match ":folder " + folder:
+            client.select_folder(folder)
+            refresh(client)
+        match ":home":
+            client.select_folder("INBOX")
+            refresh(client)
+        match ":read " + id:
+            pass  # TODO Email reading
+        match ":page " + pageno:
+            refresh(client, int(pageno))
+        match ":quit" or ":q":
+            clear()
+            exit()
+        match fail:
+            pass
+
+
+@contextmanager
+def client_manager(host, username, password):
+    with IMAPClient(host=host) as client:
+        client.login(username, password)
+        yield client
+
+
+if __name__ == '__main__':
+    from pprint import pprint
+    loading_screen()
+    with client_manager(HOST, USER, PASS) as client:
+        client.select_folder("INBOX")
+        home_screen(client)
+        while True:
+            run_action(client, input())
+
