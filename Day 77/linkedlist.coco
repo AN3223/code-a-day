@@ -1,0 +1,12 @@
+data Node(v, n)
+
+
+def linked_list(xs):
+    list = Node(xs[-1], None)
+    for x in reversed(xs[:-1]):
+        list = Node(x, list)
+    return list
+
+
+xs = [1,2,3,4] |> linked_list
+print(xs)
