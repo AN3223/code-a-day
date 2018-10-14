@@ -1,0 +1,3 @@
+SELECT "JURISDICTION NAME"
+FROM Demographic_Statistics_By_Zip_Code.csv
+WHERE "JURISDICTION NAME" < 10020
