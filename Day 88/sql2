@@ -1,0 +1,3 @@
+SELECT SUM("PERCENT FEMALE")
+FROM Demographic_Statistics_By_Zip_Code.csv
+GROUP BY "JURISDICTION NAME"
