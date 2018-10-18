@@ -1,0 +1,4 @@
+SELECT SUM(Years_employed) AS total_years_employed, Role
+FROM employees
+GROUP BY Role
+HAVING Role = "Engineer";
