@@ -1,0 +1,546 @@
+Thanks @demishassabis ! I'll be making lots of reinforcement learning content in the coming weekshttps://twitter.com/demishassabis/status/1032596793094221827 …
+---
+I've made this 3 month curriculum for absolute beginners who want to get their first paid position in the Data Science field! All of the resources are free and publicly available, please RT if you find this helpfulhttps://www.youtube.com/watch?v=9rDhY1P3YLA …
+---
+Curiosity might have killed the cat, but it can save our Mario agent! I'll explain how a team at Berkeley mathematically represented the concept of 'curiosity' to help guide an agents behavior. Their results were surprising!https://youtu.be/aom4RMOHezc 
+---
+Artificial Curiosity: http://youtu.be/aom4RMOHezc?a  via @YouTube
+---
+My video on Artificial Curiosity drops in 1 hour
+---
+I have a video coming out next week that details an open-source 3 month Data Science curriculum i've created. Its made for absolute beginners and the focus is on learning the specific skills that will help you find paid work ASAP
+---
+The Boston Dynamics Atlas robot has captured the imagination of people everywhere. I'll explain how it works at the hardware and software level in this video https://www.youtube.com/watch?v=lXZ6y3lMymM … #atlasrobot
+---
+Boston Dynamics Atlas Explained: http://youtu.be/lXZ6y3lMymM?a  via @YouTube
+---
+How does the #bostondynamics Atlas robot works? I'll release a video in 30 minutes that explains this at the hardware and software level
+---
+Lets learn how machines learn to learn! If we're lucky, we might just learn more about how we learn, or even how we learn to learnhttps://youtu.be/2z0ofe2lpz4 
+---
+Meta Learning: http://youtu.be/2z0ofe2lpz4?a  via @YouTube
+---
+Meta learning video dropping in 30 minutes
+---
+Blockchains aren't magic! A blockchain is just a data structure, it's very similar to a linked list. In this 5 minute video, i'll create a blockchain from scratch in 60 lines of Python code. https://youtu.be/MViBvQXQ3mM  #Blockchain
+---
+Simple Blockchain in 5 Minutes: http://youtu.be/MViBvQXQ3mM?a  via @YouTube
+---
+I'm not afraid of super-intelligent AI, I'm afraid of humans using AI to exploit other humans. Technology is like fire, it can be used to either burn us or give us warmth. A tool is just a tool, it all depends on how we use it. Choose love, not fear.
+---
+As automation technology improves, the 3 most important career skills in the next 5 years are dealing with change, learning new things, and preserving your mental balance in unfamiliar situations.
+---
+This is admirable, @fastdotai is awesome!https://twitter.com/jeremyphoward/status/1050423527537442817 …
+---
+How does this incredible Atlas robot work? I have a video explaining the technical details coming out next weekhttps://twitter.com/CNBC/status/1050476606488227841 …
+---
+2 billion monthly active users are influenced by an AI algorithm that optimizes Facebook's news feed. How does this AI work and what are the negative implications for humanity? I'll answer those questions and present solutions in this videohttps://youtu.be/T5zIlWSMlU8 
+---
+The Anti Facebook: http://youtu.be/T5zIlWSMlU8?a  via @YouTube
+---
+Uploading...
+---
+I loved collaborating with @intel on this video! Their OpenVINO Toolkit makes it really easy for developers to build computer vision applications. In this video, I explain its features and use it for a real-time demohttps://youtu.be/FZZD4FCvO9c 
+---
+Computer Vision with Intel: http://youtu.be/FZZD4FCvO9c?a  via @YouTube
+---
+Its my pleasure to announce our Fall 2018 School of AI Fellows!  These 11 incredibly ambitious Wizards are aiming to help solve some of humanity's most challenging problems as outlined by the United Nations using AI technology. https://www.theschool.ai/school-of-ai-fellowship/ …
+---
+I'll announce our 2018 research fellows in 1 hour! There are 11 Wizards. Yes, the plan was to select 10, but the caliber of Wizards that applied was so extraordinary that we picked 11.
+---
+UI and UX designers spend lots of time tweaking color schemes, leveraging the human brain's built in color-based reward signals to command your attention. My phone has been in greyscale mode for a week now, its awesome.
+---
+Whats the anti Facebook? Find out tonight when i release a video that will inevitably stir up controversy
+---
+If you're working on an app that serves lots of people, you'll likely need to work with a SQL database. We can use deep reinforcement learning to optimize the speed of each SQL query as we interact with our database. I'll explain how in this video!https://youtu.be/Rw3ewEXOKC8 
+---
+SQL Database Optimization: http://youtu.be/Rw3ewEXOKC8?a  via @YouTube
+---
+As I gaze out at the Pacific Ocean, I feel connected with the now 400 active School of AI chapters established globally. We’ve got so much to do and I’m so proud of the work our Deans have accomplished so far in only 3 months. Let’s spread this AI power @SchoolOfAIOfficpic.twitter.com/lSg2HQ2BJq
+---
+When your model takes too long to trainhttps://www.youtube.com/watch?v=SrWJ1Mgn_hc …
+---
+This lecture covers quantum mechanics, quantum computing (at both the hardware and software level), and quantum machine learning. Due to a technical issue, the video/audio quality is suboptimal, but definitely still worth watching! https://www.youtube.com/watch?v=AAO4oq2M_48 … @dwavesys
+---
+I'm live streaming on @YouTube. Come watch:http://youtu.be/AAO4oq2M_48?a 
+---
+Quantum machine learning is the next frontier. The rabbit hole goes deep, theres so much rich literature to explore and the field demands entirely new ways of framing problems. Very exciting!
+---
+Next week i'll release a video titled 'The Anti Facebook'. Thats all i'll say about it until its release.
+---
+This looks like a great program, definitely worth applying to. We all love @OpenAI :)https://twitter.com/OpenAI/status/1050413357600129024 …
+---
+Internships are a great way to start a career in AI! In this video, i'll detail several resources you can use to improve your skills & land your first AI internshiphttps://youtu.be/CGTn0ceOaOM 
+---
+How to Get an AI Internship: http://youtu.be/CGTn0ceOaOM?a  via @YouTube
+---
+Lanier's new book is eye opening, humbling, and inspiring. It really makes you step back and consider the implications of technology in 2018. This makes for a great reading assignment, let me know what you think Wizards! http://www.jaronlanier.com/tenarguments.html …
+---
+How are you supposed to get an AI internship? I have a very detailed video on that process dropping in 12 hours
+---
+Studying the mathematical movement of robotic arms helps us appreciate our own brains capabilities that much more. Check it out!http://youtu.be/mCI-f71MAvY?a 
+---
+Robotic Manipulation Explained: http://youtu.be/mCI-f71MAvY?a  via @YouTube
+---
+We're going to take things to the next level this Friday at 11 AM PST. We'll create quantum algorithms in the browser together, no dependency installs necessary. Join me!https://www.youtube.com/watch?v=od9DJceIzFA …
+---
+Want to do AI research? School of AI is now accepting applications for research grants! Big thanks to @GCPcloud for their support.https://youtu.be/TKRgedMUsiE 
+---
+School of AI Research Grants: http://youtu.be/TKRgedMUsiE?a  via @YouTube
+---
+Humane technology is the way forward, together we can and will build a more beautiful world. I have a video on that coming out next week.
+---
+Making people argue leads to more engagement, which leads to more attention, which leads to more ad revenue. Human decency, kindness, empathy, these things are not as profitable for companies operating under the business model of attention maximization.
+---
+Human survival has necessitated that our brains pay more urgent attention to possible bad outcomes than to good ones. Attention optimizing algorithms exploit this to keep us engaged and manipulate our behavior.
+---
+School of AI Research launches tonight, we're going to give 10 Wizards grants to pursue some exciting directions in AI
+---
+Thanks @dwavesys for the invite to see your quantum computer! It was an amazing experience. While i was there I asked Dr Alan Baratz some relevant questions, check it out! https://youtu.be/Ewf_gBWBH2A  #quantumcomputing
+---
+Dr Alan Baratz - 67 Questions with a Quantum Researcher: http://youtu.be/Ewf_gBWBH2A?a  via @YouTube
+---
+I visited D-Wave's quantum computing laboratory in Vancouver this weekend and have a jaw dropping interview with their Chief Product Officer Dr. Alan Baratz dropping in 5 hours!
+---
+I'm now in the top 10 most followed developers on GitHub! (out of 28 million) https://github.com/search?q=followers%3A%3E%3D24500&type=Users … I received a nice little hit of dopamine by seeing that, followed by an acute sense of responsibility. Time to put my head down and keep working!
+---
+I work a lot! I've adopted a working pipeline that helps me churn out lots of high quality educational content on complex topics weekly while growing an international organization. I'll explain it in this videohttps://youtu.be/N2_MtrTn1hE 
+---
+5 Ways to Increase Productivity: http://youtu.be/N2_MtrTn1hE?a  via @YouTube
+---
+I have a time management video that reveals my secrets on how i'm so productive dropping in 12 hours! For context, every week i make 3-4 technical videos and run an 800 person organization @SchoolOfAIOffic thats growing insanely fast. Get hype!
+---
+Years ago, I was in a taxi in SE Asia. Outside, a man beat a woman on the street & a crowd watched. 2 children tried to stop him, but he pushed them. I begged the driver to let me out. He laughed "this happens daily". We drove off, tears welling in my eyes. #SolveAIorDieTrying
+---
+Math gives us a glimpse into the vast expanse of possibility that lives inside our own head. This is the human brain explained in the context of algorithms!https://youtu.be/-vhYoS3751g 
+---
+Mathematics of Dopamine: http://youtu.be/-vhYoS3751g?a  via @YouTube
+---
+I have an awesome video that mathematically describes how dopamine works in the human brain dropping in 12 hours
+---
+This is a really solid recorded lecture on @GoogleAI's new chip (the Tensor Processing Unit or TPU) both at the hardware and software level. I'd go so far as to says its the most comprehensive one that exists currently. Definitely check it out!https://www.youtube.com/watch?v=jgNwywYcH4w …
+---
+I'm live streaming on @YouTube. Come watch:http://youtu.be/jgNwywYcH4w?a 
+---
+How do TPUs work and can we really use them to build faster machine learning models? @GoogleAI just made it easy for any developer to use a TPU, join my live stream tomorrow at 11 AM PST as I explain its use cases and use one live for NLPhttps://www.youtube.com/watch?v=jgNwywYcH4w …
+---
+The first San Francisco School of AI class is today, come join! I'll be there to help introduce our mission, values, local Deans, and give a short lecture on reinforcement learning. It will be live-streamed, and I'll probably rap toohttps://www.meetup.com/san-francisco-school-of-ai/events/254849034/ …
+---
+Someday we'll look back at 2018 and wonder how it was possible that we collectively tolerated using social media services with zero algorithmic transparency
+---
+Q Learning for Trading: http://youtu.be/rRssY6FrTvU?a  via @YouTube
+---
+Q learning! It's a popular reinforcement learning technique with many real-world applications. In this video, I'll use it to build an automated trading bothttps://youtu.be/rRssY6FrTvU 
+---
+The School of AI has some very exciting deep reinforcement learning research that we'll publish in 2 weeks. We've been inspired by @distillpub's commitment to scientific clarity and our goal is to accelerate the growth of the amateur research community.
+---
+I will admit that I’ve never voted before and I’m 27 years old but I will vote this midterm election and encourage US Wizards across the political spectrum to join me.https://twitter.com/TwitterGov/status/1044118988475625474 …
+---
+The Internet of Things is the collection of physical devices connected to the Web! They can share resources, communicate, and even learn from each other. I'll explain how we can use reinforcement learning to optimize electricity consumption https://youtu.be/kYWw6GBRjVk  #IoT
+---
+Internet of Things Optimization: http://youtu.be/kYWw6GBRjVk?a  via @YouTube
+---
+Internet of Things electricity consumption optimization video dropping in 1 hour
+---
+He's right! 100 Days left in 2018. If you've been thinking about doing the #100DaysofMLCode challenge, now is the time to pledge. We're going to have an amazing New Years Eve party online with all the competition winnershttps://twitter.com/Kayveen_d/status/1043543537290289152 …
+---
+I'm live streaming on @YouTube. Come watch:http://youtu.be/P1lgTATSVYA?a 
+---
+I've you've ever wondered how reinforcement learning could be used in a @kaggle competition, check out my live stream at 11 AM PST tomorrow! I'll attempt to train a model to make the top 50 leaderboard for a $100K competitionhttps://www.youtube.com/watch?v=P1lgTATSVYA …
+---
+Apple recently released their #iPhoneXS and demand for it will be massive! We can use reinforcement learning to create an adaptive system that models their supply chain in an efficient way, I'll detail how in this videohttps://youtu.be/XiN9Hx3Y6TA 
+---
+iPhone XS Supply Chain: http://youtu.be/XiN9Hx3Y6TA?a  via @YouTube
+---
+I have videos on smart home technology, financial forecasting, premier league betting, and a live Kaggle Challenge Friday at 11 AM PST. All 4 videos will demonstrate reinforcement learning, including the @kaggle challenge *gasp*
+---
+Can we create a system that tells us the optimal hockey teams to bet on using reinforcement learning? I explain how in this video https://www.youtube.com/watch?v=mEIePvxdbkQ … #move37
+---
+Sports Betting with Reinforcement Learning: http://youtu.be/mEIePvxdbkQ?a  via @YouTube
+---
+I have an absolutely incredible video dropping in an hour. Gorgeous visuals and solid theory. Dynamic programming explained using sports betting as a real-world application #move37
+---
+The billion+ people globally who use social media (myself included) are being put under continuous behavior modification surveillance and control by AI systems. Whoever creates a sustainable business model that optimizes for 'time well spent' instead of attention will win
+---
+I'm unbelievably excited to be apart of this community. It's hard to take even a single day off, Wizards are ambitiously growing free @SchoolOfAIOffic education initiatives globally! So proud #schoolofaihttps://twitter.com/VardhanRohan/status/1041180872727097346 …
+---
+.@GoogleAI's new reinforcement learning framework "Dopamine" uses a combination of #tensorflow and game environments to enable AI developers to do research more efficiently. In this live stream, I use it to make a simple AIhttps://youtu.be/FWFoyFjeAaM 
+---
+I'm live streaming on @YouTube. Come watch:http://youtu.be/FWFoyFjeAaM?a 
+---
+I just made my Decentralized Applications course free to take! https://www.theschool.ai/courses/decentralized-application/ … #schoolofaipic.twitter.com/roPEwzmooX
+---
+I'll be using @GoogleAI's new reinforcement learning library called "Dopamine" to test out some reinforcement learning algorithms live tomorrow at 11 AM PST! Join me:https://www.youtube.com/watch?v=FWFoyFjeAaM …
+---
+I have a video that explains how a reinforcement learning system can help manage Apple's #iPhoneXS inventory so that supply meets demand at their retail stores that i'll release end of this week.
+---
+When Apple releases their augmented reality glasses, mixed reality will rapidly become mainstream. Social norms for how we interact with each other in person will shift in different ways across cultures. Thousands of new businesses will be enabled. I can't wait!
+---
+Can we solve the problem of efficiently routing data across a global network of routers using reinforcement learning? Yes! I'll explain how in this videohttps://www.youtube.com/watch?v=PYQAI6Td2wo …
+---
+Sensor Networks: http://youtu.be/PYQAI6Td2wo?a  via @YouTube
+---
+Sensor Networks video dropping in 1 hour, its quite an ambitious video that explains some fundamental reinforcement learning concepts in a never before attempted way
+---
+When I was a freshman at Columbia, I got suspended for a semester for stealing a laptop. I spent that semester couch-surfing with benevolent strangers in Europe. When I returned, I switched my major from economics to computer science and was determined to do good for others.
+---
+Learning is not a spectator sport. We learn by doing! Code the research paper you find most exciting. Write a blog post on a beautiful piece of code you found on GitHub. Derive an equation that strikes your curiosity. I'm rooting for you, Wizard!
+---
+Its finally time! Watch the first video of my new course on reinforcement learning course here. I'll introduce the ideas that distinguish it from other types of machine learning, and apply it to a supply chain optimization scenariohttps://youtu.be/fRmZck1Dakc 
+---
+Introduction (Move 37): http://youtu.be/fRmZck1Dakc?a  via @YouTube
+---
+Code along with me as I use a deep learning model called a "U-Net" to solve a $100,000 @kaggle challenge to identify salt in seismic images!https://youtu.be/jm8IBBKNeA4 
+---
+I'm live streaming on @YouTube. Come watch:http://youtu.be/jm8IBBKNeA4?a 
+---
+Tomorrow at 11 AM PST i'll attempt the $100,000 @kaggle Salt Identification Challenge live! Join me and code along using Google Colab, we'll use some popular ML techniques. Excited!https://www.youtube.com/watch?v=jm8IBBKNeA4 …
+---
+On behalf of AI Wizards everywhere, thank you @Google for this incredible tool. Finding the right dataset for machine learning has always been a challenge, this is going to help grow the amateur research community immensely! https://toolbox.google.com/datasetsearch 
+---
+Its great to see @berkeley_ai release some exciting new results using generative adversarial networks! In this video, i'll explain the techniques used by their dancing AIhttps://youtu.be/WzRonX_bs34 
+---
+Everybody Dance Now! Explained: http://youtu.be/WzRonX_bs34?a  via @YouTube
+---
+Everybody Dance Now video dropping in 1 hour!
+---
+Connected, a chain of states. Markov named, predicting fates. Reward its actions, count to eight. The chain evolves and the process waits!
+---
+Did you know Python allows you to write C using an extension called Cython? We'll use Cython and the Cython-based NLP library called "Spacy" to see how fast we can make our #ML code!https://www.youtube.com/watch?v=giF8XoPTMFg …
+---
+I'm live streaming on @YouTube. Come watch:http://youtu.be/giF8XoPTMFg?a 
+---
+Thank you Google for making @GoogleColab free to the public. It’s a massive contribution to AI Wizards globally. Now we can focus much more on algorithmic research instead of trying to configure our local environments for machine learning. I’ll be using it live in an hour!
+---
+My upcoming free course titled "Move 37" starts on September 10th! I'll explain all the details in my latest video, sign up today!https://www.youtube.com/watch?v=Ei1YBf6qQAw …
+---
+Move 37 Official Trailer: http://youtu.be/Ei1YBf6qQAw?a  via @YouTube
+---
+I'll be live coding some optimized NLP techniques made very efficient using C and C-Extensions for Python tomorrow at 11 AM PST! Set a reminder by clicking the bell iconhttps://www.youtube.com/watch?v=giF8XoPTMFg …
+---
+I’m currently making a video on how “Everybody Dance Now” works and the implications of this technology are profound. Video evidence will soon no longer be considered valid in defense cases. What then? I’ll explain solutions in the vidhttps://twitter.com/hardmaru/status/1032762806796312576 …
+---
+Continuously traveling and making a conscious effort to understand people who think & live a different way than I do has accelerated my personal growth + maturity, perhaps more than anything else. Highly encouraged
+---
+One of our #schoolofai Deans  (@berilsirmacek) has been conducting a wonderful series of interviews with other Deans, check it out here!https://www.youtube.com/user/DrSirmacek/videos …
+---
+There are some incredible possibilities that emerge when we combine the emerging field of quantum computing with machine learning technology. I'll explain how it all works through examples and animations!https://youtu.be/DmzWsvb-Un4 
+---
+Quantum Machine Learning: http://youtu.be/DmzWsvb-Un4?a  via @YouTube
+---
+A very trippy quantum machine learning video is dropping in an hour
+---
+I'll include the best practices I've learned over the past few years in creating helpful #AI curriculums for beginners in this very revealing video!http://youtu.be/tczjZOLVjJM?a 
+---
+How to Teach AI: http://youtu.be/tczjZOLVjJM?a  via @YouTube
+---
+I'll drop a video in an hour that will reveal my 'best practices on how to teach AI"
+---
+We're learning more about how intelligence works everyday, and reinforcement learning is a crucial piece of that puzzle. This is a first glance at my next course!https://youtu.be/Xr8lrBAfHcA 
+---
+Move 37 Teaser Trailer: http://youtu.be/Xr8lrBAfHcA?a  via @YouTube
+---
+3 years ago I was rejected by almost every single tech company I applied to. I've also never been able to keep a job for longer than a year before doing what I do now. Things change, just keep moving forward no matter what.
+---
+I have videos coming out this week on "How to Teach AI", "Quantum Machine Learning", "Live Stream: Cython for NLP Optimization", and a special teaser trailer that hints at my next course.
+---
+Our #schoolofai is now represented in over 400 cities globally. Let me show you the incredible work our Deans have done so far to help teach people #AI technologyhttps://www.youtube.com/watch?v=_7TvMA_w8xw …
+---
+School of AI Cities: http://youtu.be/_7TvMA_w8xw?a  via @YouTube
+---
+How to Study Machine Learning: http://youtu.be/waXHrc2m9K8?a  via @YouTube
+---
+Let me show you how I study #MachineLearning in this video! I'll list out 5 of the most important techniques to help you learn faster and more efficientlyhttps://youtu.be/waXHrc2m9K8 
+---
+I have a video on "How to Study Machine Learning" dropping in 12 hours. Its got a whole new style of animation and I share some of my most personal secrets. Get hype!
+---
+“If you are depressed, you are living in the past. If you are anxious, you are living in the future. If you are at peace, you are living in the present.” - Lao Tzu
+---
+Machine Learning on #Microsoft @Azure is made very easy with its drag and drop interface to build models. I'll describe its services and build a demo to predict automobile prices in this video!https://youtu.be/LQEyK4POowk 
+---
+Azure Machine Learning: http://youtu.be/LQEyK4POowk?a  via @YouTube
+---
+The @Azure video is coming in 1 hour
+---
+I had 67 questions to ask http://Fast.AI  Researcher @math_rachel about machine learning and her daily life, check it out!https://youtu.be/RsOpnFbufcY 
+---
+Rachel Thomas - Really Quick Questions with a http://Fast.AI  Researcher: http://youtu.be/RsOpnFbufcY?a  via @YouTube
+---
+Google Cloud is asking us how they can improve, lets give them any constructive feedback we can think of!https://twitter.com/b0noi/status/1029438196642242561 …
+---
+And to my Chinese followers - yes you have all rights to re-share and/or profit from my content on Chinese platforms. Lets spread this AI power!
+---
+It's truly incredible to witness China's hyper-growth. I'm more excited than ever to figure out ways to help connect China's brilliant youth with the rest of the world for collaborative AI development
+---
+Happy Independence Day India! Sending love, always
+---
+Interactive, fully-configured, documented code examples in the browser will be the future of machine learning research, not static PDFs. Lets shift the culture, this is inspiringhttps://twitter.com/ch402/status/1029421162583871488 …
+---
+I have videos on Microsoft Azure, studying techniques for ML, and an interview with an AI researcher coming out this week. I'll also release a listing of all #SchoolofAI chapters globally!
+---
+How did @DeepMindAI's #AlphaGo Zero manage to beat the best Go player in the world? It used a powerful combination of a specialized tree search and deep learning. I explain how in this video!https://youtu.be/UzYeqAJ2bA8 
+---
+DeepMind AlphaGo Zero Explained: http://youtu.be/UzYeqAJ2bA8?a  via @YouTube
+---
+Developing a robust, energy efficient distributed consensus algorithm for a blockchain that can scale to 8 billion people is difficult. We can instead frame this research as an optimization problem. Simulated neural architectures could fault test & improve their generated proofs
+---
+Neither of my working class parents went to college and I grew up watching them struggle with finances. Throughout my life, certain people gave me opportunities to succeed. Now I'm paying it forward to the world
+---
+I'll release a detailed video on how the AlphaGo Zero algorithm works in 12 hours. Move 37 gave me life, you could create a dedicated field of study based on it alone. Excited to explain it all!
+---
+hahaha "can do backpropagation manually on paper"https://twitter.com/MIT_CSAIL/status/1029022766987726853 …
+---
+How did @OpenAI's team of 5 neural networks manage to beat some of the best DOTA 2 players in the world? I'll explain their algorithmic techniques in detail in this video. Amazing work!https://youtu.be/DzzFSyzv1p0 
+---
+OpenAI Five vs Dota 2 Explained: http://youtu.be/DzzFSyzv1p0?a  via @YouTube
+---
+This @openai Five explanation video full of animations, code, and equations is pretty amazing. Should I release it?
+---
+After reviewing over 1800 applications, I've selected ~800 #SchoolofAI Deans across ~400 cities globally.  Each should have received an email with further instructions, congratulations and a huge thank you to all Wizards who applied!
+---
+Little known fact, my dad repaired watches for a living when I was growing up. Now he makes grills for rappers. Thats him in the collared blue shirt standing next to his latest happy clientpic.twitter.com/EXh7eHdTR8
+---
+Neural networks can learn to drive cars, but can't learn to count numbers very well! @DeepMindAI 's new Neural Arithmetic Logic Units paper details a solution to this problem. Its really exciting stuff, I'll explain how it works in this videohttps://youtu.be/v9E7Wg0dHiU 
+---
+Neural Arithmetic Logic Units: http://youtu.be/v9E7Wg0dHiU?a  via @YouTube
+---
+Its midnight on Saturday and the Neural Arithmetic Logic Unit video is ready to drop in an hour, im so hyped!
+---
+Machine learning will inevitably be deployed in every single layer of the technology stack. It'll help optimize how computing resources are allocated for operating systems, which routing schemes are most efficient, how languages are parsed semantically at the compiler level, etc
+---
+I'll try out some @PyTorch code to solve an invasive species classification challenge on Kaggle in this video. Residual networks!https://www.youtube.com/watch?v=TvwYV0viIQE …
+---
+I'm live streaming on @YouTube. Come watch:http://youtu.be/TvwYV0viIQE?a 
+---
+I'll live stream tomorrow at 11:30 AM PST! The task will be to detect invasive species as part of a @kaggle challenge https://www.youtube.com/watch?v=TvwYV0viIQE … using the popular PyTorch library.
+---
+Reinforcement learning is far more difficult to grasp than supervised learning. Thats what makes it so exciting :)
+---
+I have videos on @DeepMindAI 's Neural Arithmetic Logic Unit, @OpenAI Five, AlphaGo Zero, and a PyTorch Live Stream (Friday) coming out later this week
+---
+What does a tweet really mean? We can perform sentiment analysis on twitter data using a #machinelearning technique called binary logistic regression. I'll explain how it works in this video!https://youtu.be/H6ii7NFdDeg 
+---
+Binary Logistic Regression Tutorial: http://youtu.be/H6ii7NFdDeg?a  via @YouTube
+---
+i have a logistic regression video that has animations, raps, skits, equations, code, and memes dropping in 1 hour
+---
+That would be so amazing! Pyongyang #SchoolofAIpic.twitter.com/FAANZkxCad
+---
+67 Questions is coming back, I have an interview booked this week. Lets just say this person codes AI very "fast"
+---
+Python? Javascript? Golang? In this video, I'll describe the top 3 programming languages to learn for #machinelearning and give some helpful resources to get started learning themhttps://youtu.be/-cdxxrbKdho 
+---
+Best Programming Languages for Machine Learning: http://youtu.be/-cdxxrbKdho?a  via @YouTube
+---
+I was so excited to meet @karpathy IRL. He’s been such a big inspiration to me. Follow him if you haven’t yet!pic.twitter.com/yqqPJJmRwt
+---
+Live at OpenAI 5 vs humanshttps://www.pscp.tv/w/bjdXxjF6WUtiZ0pxZWR4amV8MW1ueGVvV01FYnFHWAX4gJfzhfWlpPhV8Tx_KduGL_Sq0Mw0DC4LK3lloPF6 …
+---
+If you meet someone who seems unsure what to do with their lives, remind them that millions of people are suffering (poverty, disease, pollution, etc) and that it’s their duty as a healthy human to help with at least one. How? Study & apply AI
+---
+Over 1500 Wizards globally applied to help host #SchoolofAI meetups in their city in just 5 days.  That’s remarkable, I’m feeling so proud to be apart of such a motivated and brave community. I will personally review every single application
+---
+I’m going to announce the selected #SchoolOfAI Deans by the end of this week & give them helpful some resources to get started. We’re moving fast!
+---
+TrustToken Explained: http://youtu.be/iDqIAt3Tkh0?a  via @YouTube
+---
+If you haven't yet, apply to be a #SchoolOfAI Dean for your local community here! Deans help host regular learning meetups in their respective citieshttps://docs.google.com/forms/d/e/1FAIpQLSdwbOGrPAvmFtohYO1QWxojk_77rEsc1oJSSMGZPtLCG1b8-Q/viewform …
+---
+I'm live streaming on @YouTube. Come watch:http://youtu.be/CMank9YmtTM?a 
+---
+this is definitely getting its own videohttps://twitter.com/DeepMindAI/status/1025375916107673602 …
+---
+I think we have a winner for the AI #InMyFeelingsChallenge , Luke Lee created an app where you compete with an AI to see who has better dance moves. It uses AI to measure your dance skills as well. Amazing work! https://cryptic-taiga-14703.herokuapp.com/ 
+---
+In this video, I explain an initiative that I'm dedicating myself to. This is a call to action, a rallying cry to all those who believe that AI can be used for the benefit of humanity. Join me & sign up to be a Dean at School of AI.https://youtu.be/8yu8rtXThy8 
+---
+School of AI Introduction: http://youtu.be/8yu8rtXThy8?a  via @YouTube
+---
+I can't remember the last time I was this anxious releasing a video. Secret vid dropping in 2 hours
+---
+Shoutout to Wizard Peter Kubes for his machine learning in the browser project! A fun demo that lets you configure and run a neural net right in the browser https://nnplayground.com/ 
+---
+If you feel trapped in a job/degree program/relationship/etc, draft up a plan of action to escape gracefully & stream positivity through your earbuds via motivational content to help you execute.
+---
+So @googlecloud offers developers some really powerful features, including Kubernetes, TPUs, and serverless computing. I'll explain what these and related terms mean in this machine learning tutorial video, get hype!https://youtu.be/tdhVXKf_WSs 
+---
+Serverless Computing with Google Cloud: http://youtu.be/tdhVXKf_WSs?a  via @YouTube
+---
+I have a serverless computing video ft Google Cloud dropping in 2 hours and its just delightful
+---
+I also have a secret video coming out this week that i can only hint at right now. It involves community + governance + AI
+---
+I have videos on Logistic Regression, Best Programming Languages for Machine Learning, and a live coding session where i build a NodeJS ML app Friday 11 AM PST this week
+---
+I take one 24 hour period every week, usually Saturday, to disconnect from the Internet completely. This rejuvenates my mind immensely, and its how i'm consistently able to create so much
+---
+I’ve never been more excited in my life. We have so much work to do, so many topics to learn! I’m very grateful to be apart of such an inspiring community of AI Wizards  
+---
+Unlearning what I’ve learned about learning has allowed me to learn faster and more enjoyably
+---
+Understanding how @awscloud works will give you the ability to automate large parts of the machine learning pipeline in the cloud. I'll explain it in this video!https://youtu.be/zkzED9HvMG0 
+---
+AWS Training Video: http://youtu.be/zkzED9HvMG0?a  via @YouTube
+---
+I'm live streaming on @YouTube. Come watch:http://youtu.be/suRd3UzdBeo?a 
+---
+Live streaming a @kaggle challenge in 15 minuteshttps://www.youtube.com/watch?v=suRd3UzdBeo …
+---
+Facebook is hitting a wall with its business model. They'll need to adapt fast AF or make way for a new social network that competes on values (community governance, data privacy, shared ownership)https://www.cbsnews.com/news/facebook-stock-price-plummets-largest-stock-market-drop-in-history/ …
+---
+Get the first official School of AI merchandise here https://teespring.com/school-of-ai  a portion of all sales goes towards the World Literacy Foundation
+---
+The School of AI is switching to a non-profit model. All future courses will be free. And the first real AI course starts in a few weeks, prepare yourselves Wizards.
+---
+Not Azure? A humble and unbiased choice @Microsoft , impressive!https://twitter.com/github/status/1022519072645439488 …
+---
+It could be just as impactful to join a big tech company and start a movement to decentralize it from within (proposing new business models, defending user data rights, applying distributed ledger technology in novel ways, etc.) as it would be to start a decentralized competitor
+---
+This video deserves more views. No its not about making money, but it is about a really important part of the machine learning pipeline. RT if you agreehttps://www.youtube.com/watch?v=IVVVjBSk9N0 …
+---
+I have solid videos that describe how to easily train machine learning models on AWS, Google Cloud, and *gasp* Microsoft Azure coming out this week. Oh, and a livestream this Friday at 11 AM PST where I'll solve a @kaggle challenge
+---
+Alright i'm way too excited to release this one - I've been training nets and downing losses, man i feel just like a rockstar! If the terms 'cross entropy' and 'log loss' sound confusing, this video will help you understand why they are so important in MLhttps://youtu.be/IVVVjBSk9N0 
+---
+My video that explains loss functions is finished and it’s one of my best. I’ll release it this weekend, but if this gets 250 RTs in 3 hours I’ll release it immediately.
+---
+https://www.youtube.com/channel/UC9z7EZAbkphEMg0SP7rw44A …
+---
+I invited @realCarykh over this weekend to talk machine learning. He has a very bright future ahead of him and makes unique AI content, check him out on YouTube!pic.twitter.com/86rseFnpP7
+---
+Ever since the #100DaysOfMLCode challenge started, RIP my twitter notifications haha but i love it, its the best part of my day to see your progress
+---
+This video explains how I made an AI dance for Drake's #InMyFeelingsChallenge . Lets light up this challenge with our own dancing AIs Wizards!https://youtu.be/prswDGGmYaE 
+---
+Drake In My Feelings Challenge AI: http://youtu.be/prswDGGmYaE?a  via @YouTube
+---
+Building your own machine learning API is easy using a combination of #TensorFlow and @FloydHub_ In this live stream, i build a neural style transfer model, then serve it via an HTTP APIhttps://youtu.be/YJyRBPz4CoM 
+---
+I started a live stream on @YouTube:http://youtu.be/YJyRBPz4CoM?a 
+---
+I'm going live in 30 minutes! We'll build a simple machine learning API that turns normal images into stylized images using tensorflow https://www.youtube.com/watch?v=YJyRBPz4CoM … come join :)
+---
+It doesn't matter if you're 7, 17, 27, or 77 years old, it's never too early or too late to start learning AI. Have a question? Ask it. Encountered a bug? Solve it. Can't understand a concept? Learn it.
+---
+I want to see you Wizards become ML superstars. That means publishing admirable research papers, keynote speaking at conferences, creating educational content, and creating sustainable businesses around AI. The clock is ticking, make the ML community proud!
+---
+The #100DaysOfMLCode movement is really taking off! If you've already committed, try asking 1 close friend to commit as well. You can help keep each other accountable and it'll increase the likelihood you'll complete the challenge.
+---
+I have a very math focused video that compares loss functions coming out later this week.
+---
+4 years ago, I ascended the Himalayas to visit the Dalai Lama's temple in Dharamshala. A monk using a smartphone caught my eye, and I promptly took a picture. I was awe struck and empowered. Even here, in this serene mountain village, algorithms could affect lives.pic.twitter.com/JjmEkW0Aew
+---
+Financial forecasting is an exciting area of research for reinforcement learning and in this video I'll use an RL technique called Q learning to try and predict the price of Google stock.  Check it out!https://youtu.be/05NqKJ0v7EE 
+---
+Reinforcement Learning for Stock Prediction: http://youtu.be/05NqKJ0v7EE?a  via @YouTube
+---
+If you want to see behind the scenes footage for my videos, memes, and personal life - make sure to follow me on Instagram!  https://www.instagram.com/sirajraval/ 
+---
+Video tutorial on using reinforcement learning to predict the price of Apple stock dropping in 6 hours
+---
+Yes! @openminedorg has so many interesting topics you can learn about as part of the #100DaysOfMLCode challenge, a great project to check outhttps://twitter.com/iamtrask/status/1018890812367757312 …
+---
+Why dance myself when I can create an AI to do it for me? I made an AI learn how to dance to Drake and its taking on the #InMyFeelingsChallenge . I'll detail how I did it in a video later this weekpic.twitter.com/zYIdwWPivI
+---
+One of the most popular use cases for LSTM networks is time series analysis. We'll build our own LSTM neural network using Keras and Python to try and predict the price of Bitcoin in this videohttps://www.youtube.com/watch?v=F2f98pNj99k&feature=youtu.be …
+---
+Bitcoin Trading Bot (Tutorial): http://youtu.be/F2f98pNj99k?a  via @YouTube
+---
+Ill be dropping a video on "Building a Simple Bitcoin Trading Bot" in 6 hours. Its got some never before attempted animations on how LSTM neural networks work, i'm so hype to share it with you Wizards!
+---
+Do not underestimate Facebook. Their executive team is incredibly talented and is now laser focused on regaining user trust. Their WhatsApp and Instagram acquisitions puzzled many at first but turned out to be amazing investments.
+---
+I’m so proud of all the Wizards who have publically committed to the #100DaysofMLCode challenge. There’s still time if you haven’t yet! Rules are herehttps://github.com/llSourcell/100_Days_of_ML_Code …
+---
+Convolutional networks are generally used to learn from image data. But did you know that they actually perform really well with sequence classification? I'll build a CNN for time series data in Tensorflow.js (Apple Stock) to try and predict future prices.https://www.youtube.com/watch?v=5Uw1iSwvHH8 …
+---
+I started a live stream on @YouTube:http://youtu.be/5Uw1iSwvHH8?a 
+---
+I'll live stream a tutorial on financial forecasting using tensorflow.js in about 2 hours!https://www.youtube.com/watch?v=5Uw1iSwvHH8 …
+---
+I make educational AI content that people engage with, so Youtube's AI algorithm helps me promote it to new people. AI is helping me promote itself.
+---
+There will likely be an imminent regulatory crackdown that will purge the blockchain space of lots of greed in the next few months.
+---
+A wizard notified me that @intel is playing my videos at their booth at ICML 2018 in Stockholm right now. Awesome!pic.twitter.com/qV7e6eGDYl
+---
+If you don’t have haters, you aren’t standing for something greater than yourself. Get yourself some haters ASAP
+---
+We're capable of comprehending a tiny, tiny portion of all possible dimensions of reality. There are very likely concepts we've yet to discover as fundamental as 'music' or 'color' that transcend what we can understand. This will change as we gradually merge with AI
+---
+I’ll release 4 video tutorials this week, all dedicated to AI applied to Finance- How to Build a Trading Bot, Stock Price Prediction using Reinforcement Learning, Convolutional Networks Applied to Time Series Data, and a special live stream
+---
+Research to Code - Machine Learning tutorial: http://youtu.be/pQyzdwHBbqo?a  via @YouTube
+---
+Have you ever wondered how to convert a complex looking machine learning paper into simple, readable code? I'll show you how in this video, using the Neural Style Transfer paper as an example!https://youtu.be/pQyzdwHBbqo 
+---
+I'm dropping a very, very useful video for beginners in 10 hours that describes how to turn a machine learning research paper into code. Get hype!
+---
+I'll use a combination of animations, analogies, and code to describe the most important algorithm in machine learning, back-propagation! You owe it to yourself to understand how this workshttps://www.youtube.com/watch?v=FaHHWdsIYQg …
+---
+Backpropagation Explained: http://youtu.be/FaHHWdsIYQg?a  via @YouTube
+---
+I don’t want to hear “I can’t learn machine learning because I didn’t learn X subject in grade school/college”. The Internet is your university, it’s your responsibility to use it as such.
+---
+Backpropagation is the most important technique in machine learning to understand. I’ll drop a video on how it works in 6 hourspic.twitter.com/SLP3jRmh5y
+---
+Wizards who have developed an excellent mathematical intuition enjoy a much broader possibility space of concepts they can think about. Focus on the hardest part, the math. And you’ll be unstoppable
+---
+Our slack channel has recently surpassed 20,000 AI wizards, congrats! Its a great place to find help with your projects and team up http://wizards.herokuapp.com/ 
+---
+I don’t give guest lectures at UCLA often, but when I do - I rap https://twitter.com/arieljalali/status/1015288462432301060 …
+---
+Begun, the meme war has #100DaysOfMLCodepic.twitter.com/reIWEOTMzB
+---
+100 Days of ML Code Challenge: http://youtu.be/cuQMBj1cWPo?a  via @YouTube
+---
+Machine learning is the most transformative technology of our time. Lets pledge to dedicate 1 hour to coding it for the next 100 days!  #100DaysOfMLCodehttps://www.youtube.com/watch?v=cuQMBj1cWPo …
+---
+Who’s ready to take the 100 days of ML code challenge? That means coding machine learning for at least an hour everyday for the next 100 days. Pledge with the #100DaysOfMLCode hashtag, I’ll give the first few winners a shoutout!
+---
+America's greatest strength is it's diversity. We're all the children of immigrants and thats a special bond. After living in Europe for a year, I've grown to appreciate that bond even more. Happy Independence Day!
+---
+I know what my audience wants. And I'm going to give it to them :)
+---
+My 3 videos this week will explain back-propagation via animations, teach you how to convert a research paper into code, and give you a broad overview of popular machine learning models
+---
+If you understand how @github works, you'll be able to leverage it to learn programming faster, get help on your personal projects, and contribute to other projects. I detail it all in this very short, dense tutorialhttps://www.youtube.com/watch?v=Loav1kbA640 …
+---
+How to Use GitHub: http://youtu.be/Loav1kbA640?a  via @YouTube
+---
+I'll drop a video on GitHub for beginners in 5 hours
+---
+I put my phone on airplane mode for at least 3 hours before I go to sleep. It makes me feel more relaxed, more productive, and happier. Work smarter, not harder.
+---
+Are you looking for new ways to learn the latest technologies, promote your brand, and find people who can help you with your goals? Social media is the answer, and in this video I’m going to show developers how to maximize its learning potentialhttps://youtu.be/PulyGf6trOk 
+---
+Social Media for Developers: http://youtu.be/PulyGf6trOk?a  via @YouTube
+---
+If you've been thinking of applying to a machine learning position, my new video sheds some light on how that process works. Its the first video in my new course titled "Machine Learning Journey"!https://youtu.be/nMK94JlKRb4 
+---
+Resume for Machine Learning: http://youtu.be/nMK94JlKRb4?a  via @YouTube
+---
+the journey starts in 1 hour
+---
+Hanging with my bud Grant aka @3blue1brownpic.twitter.com/hmZrsDBwB1
+---
+I'm doing a live Q&A https://youtu.be/Zok0TPU0L4M  right now come join
+---
+Imagine all the premature optimizations human society must've made for hundreds of years, making decisions amidst a fog of complexity. Our future AI systems, capable of understanding multidimensional data, can help us correct those mistakes and prevent new ones from happening.
+---
+Videos on creating a great resume, mastering GitHub, social media for engineers, and a machine learning coding live stream this week
+---
+“The Journey” will start this week on my YouTube channel. Expect a story about mathematics, perseverance, data, hope, portfolio optimization, sorrow, tensorflow, existentalism, meta learning, and gratitude.
+---
+Whats the topic for my next course? Most liked reply wins
+---
+DeepMind Reinforcement Learning: http://youtu.be/N0Ld2iTMaMs?a  via @YouTube
+---
+The new DeepMind AI is able to generate an entire 3D map given just a single image, its pretty incredible. I'll explain how it works in this video via animations and my own codehttps://youtu.be/N0Ld2iTMaMs 
+---
+I have a DeepMind video dropping in 1 hour
+---
+Decentralized Gateways: http://youtu.be/2PjEfySuomg?a  via @YouTube
+---
+This is just a little glimpse into what I'm working on and whats to come next monthhttps://youtu.be/wsRBkYHwxzE 
+---

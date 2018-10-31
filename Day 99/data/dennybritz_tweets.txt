@@ -1,0 +1,479 @@
+Good thread about gaming. I’ve learned so much more from games than I did in middle/high school. And some of my best memories are from virtual worlds. Some of my best friends are people I’ve met online in games.https://twitter.com/FEhrsam/status/1053175236617691136 …
+---
+Interesting thread!1https://twitter.com/slashML/status/1052919862886952961 …
+---
+2010: curl https://shadywebsite.com/kitty.sh  | sudo bash
+
+2018: kubectl apply -f https://raw.githubusercontent.com/kitty.yaml 
+---
+How to clean your room:
+
+1. Make a list of tasks you *really* don’t want to do (except for cleaning you room)
+2. Pick the top item from that list. Imagine how gruesome and boring this task would be. Imagine yourself failing.
+3. Now, clean you room instead.
+---
+What do you mean this Silicon Valley company figured out how the brain works? I thought we figured that out long ago, here’s a rough sketch.pic.twitter.com/GKA8mcQW7N
+---
+Bishop’s new Model-based ML book is also starting to look good. http://mbmlbook.com/toc.html 
+
+Not a big fan of the chapter titles, but looking inside are a lot of intuitive explanations with real world examples.
+---
+There’s now a new (and final) version of Sutton’s RL book at http://incompleteideas.net/book/the-book-2nd.html …
+
+It’s my favorite RL book. It focuses on sounds fundamentals with intuitive explanations instead of chasing the hype.
+---
+You can call yourself an AI company when…. your notebook infrastructure is as complex as this!pic.twitter.com/FcXXhbmK4r
+---
+Except for a few very specific use cases (embedded devices, etc) it really does not matter if you are learning TF or Pytorch. Especially now that they’re starting to look more and more  similar it will be straightforward to transfer knowledge of one to the other.https://twitter.com/math_rachel/status/1048031200294531073 …
+---
+Retweet to promote the use of “tensor” and “test” in the same paragraph!https://twitter.com/alexjc/status/1047996646376632320 …
+---
+Why Most Published Research Findings Are False: http://robotics.cs.tamu.edu/RSS2015NegativeResults/pmed.0020124.pdf …
+
+“Corollary 6: The hotter a scientific field (with more scientific teams involved), the less likely the research findings are to be true.” pic.twitter.com/OMHROKUsxV
+---
+I’ve failed so many times trying to extract structured data from PDFs. This problem has to wait until we’re done with AGI.https://twitter.com/YadKonrad/status/1045559158529916928 …
+---
+I’ve been playing with the vscode latex extension (https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop …) as an alternative to overleaf. It’s quite nice not having to leave he text editor but get a full preview. But not good for collaboration.
+---
+Really good talk! I think we should start replacing all the AI robot terminator pictures with squiggly lines.https://twitter.com/zacharylipton/status/1040424812961824773 …
+---
+Good thread. Couldn’t agree more!https://twitter.com/jGage718/status/1040324130002886657 …
+---
+I wonder if there is an inverse correlation. More people working on a topic -> More likely to compete/compare with peers in a “rat race” to SOTA -> Optimizing for PR instead of progress -> Slower progress than with a handful of well-incentivized/motivated peoplehttps://twitter.com/fchollet/status/1039176548719312896 …
+---
+Dangerous habit: Play around with an algorithm in a Jupyter notebook and check if the output looks “reasonable” instead of writing a proper unit test. It’s not a substitute. In the long run you’ll save more time writing tests.
+---
+Has anyone else been failing captchas recently? Pretty sure I’m answering right but I can’t seem to pass them anymore… has something changed?
+---
+Dopamine - a research framework for fast prototyping of reinforcement learning algorithms from Google: https://github.com/google/dopamine 
+
+This looks great - I just really hope it won’t be abandoned like the many other RL and TF frameworks out there.
+---
+Time to train with “concentration dropout”?pic.twitter.com/DcDuxbiGbd
+---
+I think Deep Learning has a related problem. Instead of intentional fraud, incorrect or non-reproducible results are published unintentionally because of poor experimental protocols and missing/wrong statistical significance tests.https://twitter.com/dennybritz/status/1031331834263744512 …
+---
+Researcher at the center of an epic fraud remains an enigma to those who exposed him http://www.sciencemag.org/news/2018/08/researcher-center-epic-fraud-remains-enigma-those-who-exposed-him …
+
+This is a fascinating read on how difficult it is to correct academic fraud and how wrong results will continue to live on
+---
+Also, I don’t like how much focus is put on “fairly beating humans” - does it really matter? OpenAI made several advances and surprised people with how far simple RL algos can scale, regardless of the end result. You can never make it completely equal/fair.https://twitter.com/mark_riedl/status/1030932057063661570 …
+---
+Which losses did I forget?https://twitter.com/dennybritz/status/1027538619211436032 …
+---
+If you can sample endlessly and have infinite storage and compute you can also “solve” it by random search. Just a question of how long you’re willing to wait and how much you’re willing to spend. Sample efficiency matters.https://twitter.com/RichardSocher/status/1026529260775694339 …
+---
+I am not proud of what I am about to do, but I will go ahead quote ML reddit (which tends to be a pretty toxic place):pic.twitter.com/pzRgvtOofw
+---
+My bet is on OpenAI. See you in twitch chat
+---
+When Recurrent Models Don't Need to be Recurrenthttp://www.offconvex.org/2018/07/27/approximating-recurrent/ …
+---
+Check out this ICML tutorial for a whirlwind tour of current Imitation Learning research:https://www.youtube.com/watch?v=bc7Sthw0B5Q …
+---
+Written by @YZeldes
+---
+This is a neat intro to both Gumbel Softmax and GANs in a single post. I like how the full post is written in a Jupyter notebook.http://anotherdatum.com/gumbel-gan.html 
+---
+I wonder how @OpenAI came up with their model architecture for Dota 2. Did they use some kind of surrogate supervised task to optimize the architecture? Or was is it common sense + domain knowledge of how to best represent the features? @jackclarkSF @gdb ?pic.twitter.com/UfUmb3XNPm
+---
+The @TensorFlow team has really ramped up the efforts on documentation and high-quality examples. I love it. This makes it so much easier to figure out what the current best practices for the API usage are.
+---
+I really enjoyed the paper presentation, but the TLDR basically is: If your task cares about absolute positions it makes sense to add a position feature to your input! Do we need a paper for this?
+---
+So true, unfortunately. In NLP, people have been adding position features to embeddings for a long time. I don’t think anyone has managed to write a whole paper about a one-line feature to make it sound academic.https://twitter.com/filippie509/status/1018291609446649856 …
+---
+Good writeup: On “solving” Montezuma’s Revenge by @awjuliani https://medium.com/@awjuliani/on-solving-montezumas-revenge-2146d83f0bc3 …
+
+It's difficult to solve Montezuma’s Revenge with pattern matching and random search techniques ;)pic.twitter.com/ZVSiKEO9UQ
+---
+Model AI Assignments https://buff.ly/2m7hR9E  - This is a neat collection of assignments/exercises to learn about various Machine Learning techniques
+---
+So coolhttps://twitter.com/technology/status/1014543362878140416 …
+---
+I’m very disappointed about the missing video soundtrack though.
+---
+Just had time to catch up on the DeepMind CTF (https://deepmind.com/blog/capture-the-flag/ …) post/paper. I don’t know what to say. This is a whole new level of production quality with these visualizations and videos. When do we start getting full-length theater style movies with research papers?
+---
+Learning Montezuma's Revenge from a Single Demonstration https://buff.ly/2IWUvwq 
+
+I like this approach. While not applicable to all problems, it makes very smart use of the available resources: One demonstration and full control over the environment (simulator).pic.twitter.com/evvBVREyh3
+---
+Dropout has been a standard technique for years, but we’re still finding new ways to interpret it. 
+
+I tend to think of new techniques/architectures as an advancement in either regularization or optimization/gradient flow, but sometimes it’s difficult to tell which one it is.https://twitter.com/hillbig/status/1013578783993954304 …
+---
+This is one of the areas where AI can really help: When there exist inefficiencies due to the limits of human collaboration, communication, or emotion.
+---
+When models learn to “collaborate and communicate” it looks impressive. However, that’s only because these things are difficult for us because of human nature. They aren’t actually difficult to optimize for algorithms.
+---
+So, when can I train my own dota2 5v5 agents with JavaScript in the browser?
+---
+This NMT with attention colab notebook is one of the cleanest and best documented TF examples I’ve seen:https://colab.research.google.com/github/tensorflow/tensorflow/blob/master/tensorflow/contrib/eager/python/examples/nmt_with_attention/nmt_with_attention.ipynb …
+---
+I think anyone should choose their own goals based on what they enjoy doing and chasing after. Anything is fine as long as you don’t get into other people’s way and don’t judge others for their goals.
+---
+Some enjoy playing the game of chasing after those things. IMO nothing wrong with that. Most life goals are a kind of game. People with a “higher purpose” often lie to themselves so they can feel good and justify their actions. In the end, none of this matter anyway. https://twitter.com/hardmaru/status/1011073189839978496 …
+---
+Deep Learning; The study of neural networks and the art of making all kinds of stuff differentiable (including things that really shouldn’t be)
+---
+I hate that the video is called “Learning to see”, which is way too much hype, but I can overlook that since I really like the paper
+---
+Great work. The approach allows you to learn compact representations of high-dimensional states (like 3D scenes) by training on lower-dimensional query-response pairs (like 2D images). This can be extended to other domains where complex states are hard to autoencode.https://twitter.com/arkitus/status/1007322737650688000 …
+---
+ML techniques used to be taught in classes on “Big Data”, then “Data Science”, and now it’s “AI”.
+
+Many are (rightly) complaining about this, but this not not unique to AI. Other scientific fields have also gone through multiple rebrandings to shed historical baggage.
+---
+End-to-end learning of representations + decisions is a brute force approach that works well with lots of data and compute. Separating representation learning from a decision making can be much more efficient. You can even play Atari with 6 neurons: https://arxiv.org/abs/1806.01363 
+---
+2.1 https://arxiv.org/abs/1806.01830  - Relational Deep Reinforcement Learning (on Starcraft)https://twitter.com/dennybritz/status/1004055714757791744 …
+---
+“[…] In science, when a theoretical paradigm comes under the pressure of contrary evidence, it totters for a period of time as researchers attempt to prop it up with various amendments and adjustments, and then it [swiftly] collapses as a new paradigm rises to take its place”
+---
+One of the things I’ve learned over the past few years:
+
+1. DeepMind paper with many, many authors
+2. ???
+3. Profit
+---
+Relational inductive biases, deep learning, and graph networks from DeepMind https://arxiv.org/abs/1806.01261 
+
+I used to work on probabilistic inference with first-order logic in graphs. Good to see people thinking about combined approaches. This field may have a comeback soon.
+---
+How to debug Python, for beginners:
+
+1. Carefully read the exception message. Repeat it to yourself 3 times, slowly.
+2. Step away from the computer. Ideally, lie down somewhere.
+3. Close your eyes, take 10 deep breaths.
+4. You will have found your mistake.
+---
+It’s fine though, just add more data.
+---
+“We show that these failures are related to the fact that the architecture of modern CNNs ignores the classical sampling theorem so that generalization is not guaranteed”
+
+So, “modern” architectures are so overfit to research datasets that they lack the nice properties of CNNs?https://twitter.com/MaxALittle/status/1003830076608303104 …
+---
+Do Better ImageNet Models Transfer Better? https://arxiv.org/abs/1805.08974 
+
+It’s not the goal of the paper, but for us people who don’t follow the CV SOTA race this is a neat cheat of model performance.pic.twitter.com/4wJCSBX3Lp
+---
+6% of calls to Japanese police are about spam emails…https://twitter.com/JapanToday/status/1001218460620242944 …
+---
+What’s the point of a mobile boarding pass if I need to exchange if for a paper pass at the airport?
+---
+Google’s Rules of ML for products: https://developers.google.com/machine-learning/rules-of-ml/ …
+
+“Most of the problems you will face are, in fact, engineering problems. Even with all the resources of a great machine learning expert, most of the gains come from great features, not great machine learning algorithms”
+---
+A new approach to academic publishing could consist of signing up for projects that “guarantee” paper acceptance if the research is well-executed, well-presented and reproducible, regardless of positive/negative result. More of a collaboration with the pub. venue.
+---
+One of the strangest things about academic publishing is the lack of feedback signals along the way.
+
+You work on a “secret” project for months and then you have a final coin flip for p(accept) at the very end, with acceptance being almost independent of the actual research.
+---
+Even though our trained models are narrow and task-specific, we’ve managed to build a set of increasingly general and powerful tools to train models on almost anything. Tooling probably has contributed more to AI progress than new algorithms.https://twitter.com/Miles_Brundage/status/997898474237636609 …
+---
+Startup Idea: Twitter, but automatically filter out all the noise about bitcoin, blockchain, etc.
+---
+At what point in time did even the researchers transition from “we trained a model to…” to “we taught an AI to…”?
+---
+Have been playing around with the new typing system in Python 3 (https://docs.python.org/3/library/typing.html …). Very impressed. Could this be the end of debug print statements?
+---
+Some interesting responses to the Google Duplex thread with uses cases I never thought about:
+
+- Therapeutic application through rapport building w/ human voice
+- Helping students improve their English
+- Increasing engagement in Youtube videos w/ voiceover
+- Better game NPCs
+---
+A big weakness of Google search is  properly dealing with recency. This doesn’t matter for historical facts, but if you search for issues around pandas or Tensorflow you don’t want to get results from 2015 Stackoverflow threads. They’re useless. There’s room to innovate.
+---
+Has anyone used the Tensorflow golang API? Any issues?
+---
+We need to ask the important question before it’s too late. I know it’s on everyone’s mind. Can you ride them?https://twitter.com/verge/status/995042484903432194 …
+---
+According to new qz article AI researchers rely on “folklore and magic spells” 
+
+“But magic doesn’t exist. You’re just a software engineer, right?”
+“No! Magic exists! I can drop out stuff, set learning rates of 3e-4, and import tensorflow_hub!”https://www.youtube.com/watch?v=91RAM4s3GiI …
+---
+Google Duplex. It’s cool, but why is sounding “human-like” even something we care about? What’s the point other than it being a challenging research problem? Robotic voices are more efficient (no interjections), easy to understand, and make clear what’s on the other end.
+---
+CMU now has a new undergraduate degree in AI. It still requires most of the standard CS courses. But is it really more attractive to students to get a degree that says AI instead of CS?https://www.cs.cmu.edu/news/carnegie-mellon-launches-undergraduate-degree-artificial-intelligence …
+---
+From Generative Models to Generative Agents by Koray Kavukcuoglu (DeepMind) https://buff.ly/2G1i2uA pic.twitter.com/zTh7pWcw7x
+---
+Google Duplex is getting it right by staying laser-focused on a handful of very specific and restricted domains. Facebook’s M made the mistake of being too broad. To me, the ASR and synthesis capabilities are the most impressive.
+---
+Google I/O still exists? Surprised it hasn’t been renamed to Google A/I.
+---
+Perhaps universities should just rename all  CS departments and courses to “AI” because it’s trending. How about “Fundamentals of data structures for AI”, or “Operating Systems, but with AI”? May help to attract some talent back.
+---
+Podcast on Michael Pollan's new book "How to change your Mind" - Exploring The New Science of Psychedelics https://tim.blog/2018/05/06/michael-pollan-how-to-change-your-mind/ … - For anyone interested in mental health and neuroscience this is a must-listen.
+---
+Looks like the poor people working on systems, database, theory, and other very important CS research at Google just lost their website. This seems so wrong to me. Is this a PR move to answer Facebook’s new AI site?https://twitter.com/volkuleshov/status/993670795799871488 …
+---
+The best teachers are typically not experts in a position of authority, but those who take students on a “journey” to learn together with them.https://twitter.com/pfau/status/993622170139070465 …
+---
+Best trailer ever! I hope they have the full movie on the plane next timehttps://twitter.com/iamtrask/status/992421935811383296 …
+---
+HyperTools: A python toolbox for gaining geometric insights into high-dimensional data  http://hypertools.readthedocs.io/en/latest/index.html … - This looks cool, especially for time-series, even comes with an arXiv paper (https://arxiv.org/abs/1701.08290 )
+---
+I just signed this petition. If you care about open access you should too.https://twitter.com/tdietterich/status/990325895729594368 …
+---
+Write an AI to win at Pong from scratch with Reinforcement Learning https://buff.ly/2HNn5DV  - Nice tutorial. Completely agree with "There’s a huge difference between reading about Reinforcement Learning and actually implementing it."
+---
+The new Gmail is excellent. Thank you Google. No more inbox taking away 2gb of memory!
+---
+Lots of excellent advice from @tomssilver - Lessons from 2 years of AI research http://web.mit.edu/tslvr/www/lessons_two_years.html …
+---
+Several people have asked me why I haven’t send out the AI newsletter the past two weeks. I’m currently traveling and taking a break from AI news/PR overload, but the newsletter will go out again in 2 weeks!
+---
+This new NLU multitask benchmark looks great. The associated paper is now up on arXiv too: https://arxiv.org/abs/1804.07461 https://twitter.com/sleepinyourhat/status/987358963795742720 …
+---
+When I visit my family I always complain that my mom is a hoarder. The house is full of random stuff she never uses. Now I’ve come to the sad realization that my iPad is full of unread books and my phone full of unused apps. I’m a hoarder :(
+---
+What a Disentangled Net We Weave: Representation Learning in VAEs (Pt. 1) https://buff.ly/2vjXxJG 
+
+Nice writeup!pic.twitter.com/QcL9g1MOIT
+---
+Tales of the Neon Sea is a cyberpunk adventure that takes its cue from sci-fi and China https://venturebeat.com/2018/04/03/tales-of-the-neon-sea-is-a-cyberpunk-adventure-that-takes-its-cue-from-sci-fi-and-china/ …
+
+I really like the way this looks. I guess it's time to re-install Steam...pic.twitter.com/qnXys5qsA7
+---
+You’re about to witness one of the biggest shifts in computing and Artificial Intelligence of this century…
+
+… people are moving from Python 2 to Python 3
+---
+Writing a DL paper in 2018:
+
+1. Come up with “brain-inspired” modification to a well-known architecture
+2. Test the method on 200 standard tasks, find *one* where it’s better
+3. Don’t calculate stat. significance
+4. Come up with after-the-fact justification
+5. Publish
+---
+“AI is really great at finding hidden rules and applying them and optimizing everything according to hidden rules, but it’s really the rule-breaking events that have made life exciting for us.”https://www.theverge.com/2018/4/12/17229158/edward-tenner-efficiency-paradox-big-data-artificial-intelligence-book …
+---
+I think one of the bigger misconceptions about Deep Learning (and especially RL) is that’s its mostly science, which is what’s shown in the papers. In reality, many papers are the result of <25% science and >75% art such as debugging and fiddling with tiny parameters.
+---
+Lessons Learned Reproducing a Deep Reinforcement Learning Paper: https://buff.ly/2qhxXQJ  - This is an excellent writeup of how difficult and time-consuming it is to reproduce a paper, especially in RL. Also, don't get mentally addicted to Tensorboard.pic.twitter.com/JXlmqC4JNy
+---
+Just came across this really good comedy. If you liked Rick and Morty and futuristic stuff and have some basic Machine Learning knowledge you should take a look! Even Elon did a good job at being funny!https://twitter.com/DoYouTrust/status/982124894145036289 …
+---
+This thread about t-mobile storing plaintext passwords is gold.
+
+But don’t fear, if your password is hunter2 it’ll show up as hunt*** to everyone else. https://twitter.com/tmobileat/status/982187919061303296 …
+---
+1. “Please turn off your ad blocker”
+2. I click “No”
+3. Video with sound starts auto-playing
+
+Okay, you got me. I’ll turn it off.
+---
+Still can’t get used to Japanese deserts pic.twitter.com/q4o9t5vnsR
+---
+Just sent out The Wild Week in AI #83 - TensorFlow Dev Summit Highlights; World Models; Cloud Text-to-Speech; And More; You can subscribe to the newsletter athttps://www.getrevue.co/profile/wildml/archive/104034 …
+---
+For example, whenever I listen to an embarrassing song on YouTube I do it in an incognito tab so that it doesn’t start recommending me similar stuff.https://twitter.com/dennybritz/status/980683009232748549 …
+---
+I’ve heard the saying that the phone’s home screen says a lot about a person. Well, if you *really* want to get to know someone you ask them what they do in their incognito Chrome tabs.
+---
+Chrome can already barely handle a dozen tabs with JS-heavy pages. How many Chrome tabs with TensorFlow.js model pages will be possible? :D
+---
+I think TensorFlow.js (https://js.tensorflow.org/ ) will enable lots of cool new stuff on the web. Though it’s also a bit scary to think that you can now train or fintune models in real-time based on all kinds of user client-side interactions.
+---
+With Tensorflow Hub you can re-use parts of published Tensorflow graphs, like module = hub.Module(“LINK_TO_MODULE"). This is a great and, in hindsight, obvious idea! Kind of like pip for tensorflow graphs.https://www.tensorflow.org/hub/ 
+---
+I’m sure it’s a small step from MNIST to “techniques necessary to enable artificial agents with human-like cognitive, generalization and communication abilities”
+---
+The DeepMind adversarial learning paper (https://deepmind.com/blog/learning-to-generate-images/ …) is good research but I hate the blog post hype.
+
+“Similar techniques may be necessary to enable artificial agents with human-like cognitive, generalization and communication abilities” - This is MNIST. Really?
+---
+My new favorite paper conclusion. From https://pjreddie.com/media/files/papers/YOLOv3.pdf …pic.twitter.com/n6bznHLiDi
+---
+Just sent out this week'sThe Wild Week in AI newsletter - Self-Driving car kills pedestrian; Random Search vs. Deep RL; MCTS Tutorial; And more; Subscribe athttps://www.getrevue.co/profile/wildml/archive/100531 …
+---
+Monte Carlo Tree Search Beginner's guide https://buff.ly/2Gpr0Gm pic.twitter.com/n7xq4HINFv
+---
+Contributing code is not the only way to give back to open http://source.You  can fill out this @gensim_py survey to help steer the development of the project.https://twitter.com/gensim_py/status/972778151796510721 …
+---
+Interesting reddit thread: Are the hyper-realistic results of Tacotron-2 and Wavenet not reproducible?https://www.reddit.com/r/MachineLearning/comments/845uji/d_are_the_hyperrealistic_results_of_tacotron2_and/ …
+---
+iNaturalist Competition at CPVR 2018 https://sites.google.com/view/fgvc5/competitions/inaturalist …
+
+"The dataset contains over 8,000 species, with a combined training and validation set of 450,000 images that have been collected and verified by multiple users from iNaturalist."pic.twitter.com/ofwzI0CYcM
+---
+The whole crypto market is hugely driven by scams and Ponzi schemes. Some people try to build real value, but they are far and few between. Reminds me of the old affiliate marketing days, but on a whole new level of sophistication.https://twitter.com/josh_emerson/status/971374045571756032 …
+---
+[1802.07068] Talent vs Luck: the role of randomness in success and failure https://buff.ly/2oO0VXr 
+
+Starting from a gaussian distribution of talent, the simulation results in a power law distribution of wealth. The most successful agents are almost never the most talented ones.pic.twitter.com/eun1HENOtO
+---
+The Building Blocks of Interpretability, a look into how neural networks make decisions: https://distill.pub/2018/building-blocks/ … 
+
+With an open-source release of a TF toolkit for feature visualization: https://github.com/tensorflow/lucid …pic.twitter.com/CDxUzkyV07
+---
+Just sent out this week's newsletter: Google's ML crash course;  Neural Brain Stimulation; ML discovers new bugs in games; and more. You can subscribe athttps://www.getrevue.co/profile/wildml/archive/99421 …
+---
+Can increasing depth serve to accelerate optimization? https://buff.ly/2FoxC7x 
+
+This is  cool. Overparameterization can  help optimization, not (only) expressiveness. I always believed that adding more linear layers to a linear NN doesn't do anything. Turns out it does.pic.twitter.com/p7YpP9cpoL
+---
+The British amateur who debunked the mathematics of happiness https://buff.ly/2CZfjAk 
+
+This is fascinating read of how research based on incorrect math can become widely accepted and spawned a whole industry of self-help books. It's all about telling a compelling story.
+---
+Sounds familiar  
+
+From https://www.wired.com/2017/01/john-arnold-waging-war-on-bad-science/ … which is a a really good read.pic.twitter.com/G2O19mNlFW
+---
+Trustless Machine Learning Contracts: Evaluating and Exchanging Machine Learning Models on the Ethereum Blockchain https://blog.algorithmia.com/trustless-machine-learning-contracts-danku/ …
+
+Interesting from a technical perspective but I have to admit that I don't quite get it. What's so bad about a middleman for this use case?pic.twitter.com/K68ye2aydL
+---
+Also, when there are no experiments.
+---
+It’s easy to tell who it is when the paper starts with “I apply recent work on [self-reference] and [self-reference] to…”https://twitter.com/Miles_Brundage/status/968299873840836608 …
+---
+This is an excellent and easy-to-understand introduction video to Variational Autoencoders https://www.youtube.com/watch?v=9zKuYvjFFS8 …
+
+Also shows how adding a single coefficient/hyperparameter to an existing algorithm can lead to a whole new subfield with dozens of publications ;)pic.twitter.com/23BRWxu088
+---
+Ingredients for Robotics Research https://blog.openai.com/ingredients-for-robotics-research/ … - 8 new robotics environments and an implementation of Hindsight Experience Replay (https://arxiv.org/abs/1707.01495 ) from @OpenAI. Very cool and useful beyond robotics as well.pic.twitter.com/A6MLrMCg4b
+---
+The Wild Week in AI - JupyterLab; China overtakes US in AI funding; Malicious AI Report; Continual Learning advancements:https://www.getrevue.co/profile/wildml/archive/98307 …
+---
+I want a chrome extension that automatically replaces all arXiv pdf links with arXiv abstract links, except for those found on the paper’s arXiv page.
+---
+"Elon Musk will depart the OpenAI Board but will continue to donate and advise the organization. As Tesla continues to become more focused on AI, this will eliminate a potential future conflict for Elon"https://blog.openai.com/openai-supporters/ …
+---
+You can now read arXiv papers automatically converted to HTML format on http://semanticscholar.org , which is also great for browsing papers and finding citations:http://bit.ly/2oiC1is 
+---
+Just played around with JupyterLab. Don’t think I’ll use the editor features, but I can see it replacing my standard Jupiter notebook workflow. It also feels faster and less bloated. A bit disappointed it doesn’t ship with free GPUs though..
+---
+AI Residency programs as a service
+---
+Introducing the Uber AI Residency http://ubr.to/2EJ55WJ 
+
+If you're a startup and you don't have your own AI residency program yet I recommend hurrying up before the space gets too crowded.
+---
+JupyterLab is Ready for Users http://bit.ly/2EGYCLZ 
+
+The next generation of Jupyter looks really cool. Has anyone worked with the beta version?pic.twitter.com/yEgyxnqWkS
+---
+Just published this week's newsletter: Cloud TPUs beta; AI's replication crisis; Why RL doesn't work; And more;https://www.getrevue.co/profile/wildml/archive/97111 …
+---
+And here’s the relevant paper, of course someone had this idea before me! https://openreview.net/pdf?id=Hk91SGWR- …
+
+Thanks to @ankurhandos for finding!https://twitter.com/dennybritz/status/965164678899879936 …
+---
+Thinking about RL sample efficiency. Imagine you apply a transformation to Atari pixels that makes it look like noise to humans. How long would a person need to solve it? Very long. They’d probably just memorize the actions and overfit. Why expect RL to do something different?
+---
+This is a neat introduction to Inverse Reinforcement Learning:  http://bit.ly/2Eyygvu pic.twitter.com/35iZ7s9267
+---
+Missing data hinder replication of artificial intelligence studies: http://www.sciencemag.org/news/2018/02/missing-data-hinder-replication-artificial-intelligence-studies …
+
+Big problem with no easy solution due to misaligned incentives.pic.twitter.com/PatEbbnNij
+---
+When people talk about bringing in prior knowledge in RL they typically talk about reward function engineering, but creating realistic simulation environments is an even more powerful way to do this.
+---
+I think one of the most under-appreciated aspect of RL is that you can use prior knowledge and engineering effort to create arbitrarily realistic/complex simulation environments, which in essence “create data”. Then learn from them. You can’t create data in supervised learning.https://twitter.com/iamtrask/status/963866579783110662 …
+---
+Deep Reinforcement Learning Doesn't Work Yet http://bit.ly/2GbpFPR 
+
+I couldn't agree more with this post. The takeaway is that Deep RL *can* work, and that there are tons of good research opportunities that may get us closer. It's early days compared to Supervised Learning.pic.twitter.com/xnZc0L9kck
+---
+Tinder for ICLR 2018 papers
+---
+The Wild Week in AI - Limits of Deep Learning; DeepMind's IMPALA algorithm; Evolutionary architecture search; and more; You can subscribe to the newsletter athttps://www.getrevue.co/profile/wildml/archive/95701 …
+---
+Decided to write up something a little different from my usual posts: Introduction to Learning to Trade with Reinforcement Learninghttp://www.wildml.com/2018/02/introduction-to-learning-to-trade-with-reinforcement-learning/ …
+---
+I really want to binge read this. Especially the section about modeling players is a really fascinating topic to me.
+
+A free digital version of the book is also available at http://gameaibook.org/book.pdf  (but you should really buy the hardcover!)https://twitter.com/togelius/status/962420469696811008 …
+---
+My favorite part: “I think it is really sensitive to the weight initialisations” 
+
+So, this is a 2 layer network learning an XOR. Sensitive to weight initializations…
+---
+A group of experienced researchers trying to fit a simple XOR function with a Deep Neural Net and a grid search over super complex activation functions and optimizers in PyTorch. No success. Of course, vanilla numpy w/o fancy tricks works just fine. https://discuss.pytorch.org/t/unable-to-learn-xor-representation-using-2-layers-of-multi-layered-perceptron-mlp/13287/18 …
+---
+Overall, I’ve probably spent more time reverse-engineering what XX high-level library is doing under the hood than it would’ve taken me to implement it myself from basic primitives.
+---
+Interesting and not limited to PyTorch. Using high-level libraries/abstraction like TF Layers, Estimators, Keras, etc, is great, but can easily backfire if you don’t know *exactly* what’s going on under the hood, which often requires looking at and understanding the source code.https://twitter.com/alvations/status/961815718495862784 …
+---
+Adding my first entry to patent translation dictionary:
+
+“Methods, systems and apparatus, including computer programs encoded on computer storage media” = code
+---
+Of course, while we’re at it, might as well patent tree search pic.twitter.com/SFfJoLTIJB
+---
+“Training a Policy Neural Network and a Value Neural Network” - This is an interesting thing to patent by Google. Filed in 2016, but patent published in 2018. 
+
+I’m having trouble parsing the patent language though. What does this mean?pic.twitter.com/pNZ05sn5l8
+---
+Makes you think... how hard it is to design a game without reinforcing human biases and inequalityhttps://twitter.com/verge/status/961192854285684736 …
+---
+I just send out this week's Wild Week in AI newsletter - Andrew Ng's new AI fund; Mini AlphaGo implementation; Bias & Variance in RL;  And more; You can subscribe athttps://www.getrevue.co/profile/wildml/archive/94390 …
+---
+I think I found the ultimate success formula: 1.Train @hardmaru's sketch-rnn on animal drawings 2. Let the trained model complete Bitcoin price charts 3. Profithttps://twitter.com/CharlieShrem/status/959103514638241792 …
+---
+Blockchain startups and ICOs are significantly pushing the state of the art in landing page design.
+---
+Learning explanatory rules from noisy data http://bit.ly/2FznMMl  - I haven't had time to read the full paper, but I really like this research direction. The results/experiments look like toy problems that aren't very useful right now, but that may change over time.pic.twitter.com/GRLdTfZUgP
+---
+Making Sense of the Bias / Variance Trade-off in (Deep) Reinforcement Learning http://bit.ly/2ErTWdq  - Extremely clear and well-written post about an important tradeoff in RL by @awjuliani
+---
+Time spent doing laundry fell from 11.5 hours a week in 1920 to an hour and a half in 2014. (From https://www.gatesnotes.com/Books/Enlightenment-Now …)
+
+These smart laundry machines are stealing all our jobs :(
+---
+The Matrix Calculus You Need For Deep Learning http://bit.ly/2DPxeuI  - Great guide by @the_antlr_guy and @jeremyphoward. Someone should add Tensorflow/PyTorch commands for all the examples ;)
+---
+The Shallowness of Google Translate http://theatln.tc/2EsgElP 
+
+TLDR; Neural Machine Translation doesn't "understand" language, or rather, it doesn't understand the world. Of course it doesn't. We're doing pattern matching and that's good enough for many real world use cases.
+---
+The Wild Week in AI - Google + FB investing in French AI;  Neuromorphic Computing; DeepMind's PsychLab; and more.
+
+You can subscribe to my weekly newsletter athttps://www.getrevue.co/profile/wildml/archive/93153 …
+---
+[1801.07883] Deep Learning for Sentiment Analysis : A Survey http://bit.ly/2GfdDFL 
+
+I love survey papers in general, and this looks like a neat survey!
+---
+A Psychology Laboratory for Deep Reinforcement Learning Agents https://arxiv.org/abs/1801.08116 
+
+Time to torture your RL agents with psychology experiments!pic.twitter.com/sVCySUKCa8
+---
+Categorizing crypto news in my Twitter feed:
+
+70% Bitcoin price back above/below $10-11k!
+10% Beware of this ICO scam!
+10% New revolutionary token X launches!
+10% BigCo pivots to blockchain and sees stock surge!
+
+I’m starting to see the pattern here.
+---
+I think we have barely scratched the surface of deploying Image Recognition advances in the real world. That’ll probably happen over the next few years and has the potential to significantly change our daily lives.https://twitter.com/BenedictEvans/status/955835816533569541 …
+---
+Faster R-CNN: Down the rabbit hole of modern object detection https://tryolabs.com/blog/2018/01/18/faster-r-cnn-down-the-rabbit-hole-of-modern-object-detection/ …
+
+A nice writeup on object detection methods!pic.twitter.com/hOgipCzLcG
+---
+In this week's newsletter:  Amazon's Computer Vision powered store opens; Google Cloud AutoML; Fitting large NNs in memory; and more.  You can subscribe here:https://www.getrevue.co/profile/wildml/archive/92078 …
+---
+I wonder if anyone has ever been successful at quitting Google Chrome without force killing the process. It just keeps running for me, forever consuming GBs of memory so that I can read my email.
+---
+Andrew Ng: “AI is the new electricity”
+Sundar Pichai: “AI is more profound than fire”
+
+Are we there yet? Have you guys looked at Sophia the robot?
+---
+Switching back from Google’s Inbox to the old gmail interface. Gmail doesn’t need 4GB of memory and 5 seconds to expand an email.
+---

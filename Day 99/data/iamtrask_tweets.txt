@@ -1,0 +1,777 @@
+I recently gave an interview to on my views on:
+
+- how to get into Deep Learning
+- the importance of privacy and Private AI
+- a bit of my personal back story
+
+I hope some of these tidbits are useful for beginners looking for direction in their AI careers
+
+#100DaysOfMLCodehttps://twitter.com/bhutanisanyam1/status/1055647668981194752 …
+---
+Machine Learning is WAY more than just picking a model & calling .fit() or .train() on data
+
+It's a process...  thinking about your problem in terms of correlation & features
+
+This step-by-step guide is an excellent intro to this process
+
+#100DaysOfMLCode
+https://machinelearningmastery.com/start-here/ pic.twitter.com/D8umFflh0u
+---
+It is possible to train an AI model while the AI and the training data are encrypted - #privacy
+
+In this #OxfordAI interview with @UniofOxford, I give a simple #tutorial of encrypted AI and the @openminedorg project.
+
+I hope the tech in this talk inspires you - #100DaysOfMLCodepic.twitter.com/HTds5TtPLS
+---
+If you're interested in doing something for climate change - try being a #vegetarian.
+
+You'll live longer, reduce your carbon footprint by a lot, and it's much tastier these days than you might think. 
+
+My wife and I have been trying it for 2-3 years - feels very normal now 
+---
+It goes without saying - Reinforcement Learning is at the forefront of AI research.
+
+This is one of the first truly *introductory* tutorials of RL and Deep Learning I've seen. Toy code examples and simple analogies!!!
+
+Excellent for #100DaysOfMLCode
+https://www.analyticsvidhya.com/blog/2017/01/introduction-to-reinforcement-learning-implementation/ …pic.twitter.com/ohfJjFeQwm
+---
+Machine Learning in a company is 10% Data Science & 90% other challenges. It's VERY hard. Everything in this guide is ON POINT, and it's stuff you won't learn in an ML book 
+
+"Best Practices of ML Engineering"
+
+This is a lifesaver #100DaysOfMLCode project
+
+http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf …pic.twitter.com/hXC3WXtuLe
+---
+Optimizers like SGD, Adam, and Adagrad are very mysterious things. @distillpub has created #interactive #visualizations which get you that *gut instinct* of how they work!!! 
+
+For #100DaysOfMLCode - learn by playing with these visualizations! (yes! play!)
+
+https://distill.pub/2017/momentum/ pic.twitter.com/pTEgejHkg4
+---
+This series of Jupyter Notebooks is a VERY nice step-by-step introduction to data science and machine learning. If you're just starting out - I recommend walking through these notebooks as a first primer
+
+Definitely a great #100DaysOfMLCode project
+
+https://github.com/rasbt/python-machine-learning-book-2nd-edition …pic.twitter.com/tHWw8tYyEC
+---
+Encryption + Deep Learning = preserving privacy, protecting IP, and giving you access to train/predict on data you'd never have access to see.
+
+It's the future. Come help us build it and be ahead of the curve!!!
+
+Here are great #100DaysOfMLCode projectshttps://github.com/OpenMined/PySyft/issues …
+---
+Interested in learning Reinforcement Learning?
+
+This free course from @dennybritz is the highest quality & most comprehensive collection of online resources I've seen, prepared in order of difficulty
+
+For #100DaysOfMLCode folks - take 1-2 days per chapter
+
+https://github.com/dennybritz/reinforcement-learning …pic.twitter.com/7Ad220vdxU
+---
+Hypothesis - major Deep Learning discoveries in the last ~decade fall into two categories:
+
+1) better learning bias (usually by strategically re-using weights)
+
+Convnets, RNNs, LSTMs, GRUs, Attention, CapsNet, Dropout...
+
+2) more training data
+
+GANs, GPUs, word2vec, ImageNet...
+---
+Several great blogs have been written about LSTMs - this one (in my opinion) has the most intuitive diagram for how LSTMs actually work under the hood - it's a *semantic* diagram instead of just showing the formulas.
+
+#100DaysOfMLCode
+http://nikhilbuduma.com/2015/01/11/a-deep-dive-into-recurrent-neural-networks/ …pic.twitter.com/9c6SbGLXCr
+---
+#numpy is an irreplaceable part of every practitioner's Deep Learning toolkit, and the best way to learn NumPy that I know of is this crash course
+
+If NumPy is new to you - definitely include this early in your #100DaysOfMLCode - you won't regret it!
+
+http://cs231n.github.io/python-numpy-tutorial/ …pic.twitter.com/9rxPYe69qk
+---
+I just noticed - One of my favorite "master tutorial lists" was recently updated - over 200 different tutorials across nearly every major branch of Machine Learning!!!
+
+For #100DaysOfMLCode folks - this is... well... 200 days of projects!!! https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc …
+---
+King - Man + Woman = Queen
+
+If you've wondered - "Why does Word2vec find this relationship between words?" - this blog by @seb_ruder does an excellent job laying out the foundations.
+
+The code at the end is also a great #100DaysOfMLCode project.
+
+http://ruder.io/word-embeddings-1/index.html …pic.twitter.com/IXQDVA4uXA
+---
+Attention is one of the most important breakthroughs in the history of Deep Learning - and this @distillpub is definitively the best explanation of it I've seen.
+
+For #100DaysOfMLCode challengers - try implementing an attention mechanism from scratch.https://distill.pub/2016/augmented-rnns/ …
+---
+"A Programmer's Intuition for Matrix Multiplication"
+
+If you've ever wondered - "What is Matrix Multiplication *really* doing?" - this blogpost is for you.
+
+It offers simple intuition for the op that makes up >50% of a neural network.
+
+#100DaysOfMLCode
+https://betterexplained.com/articles/matrix-multiplication/ …pic.twitter.com/QDSmmH3UgM
+---
+If you've wondered - "Which Deep Learning optimizer should I use? SGD? Adagrad? RMSProp?" - this blogpost by @seb_ruder is the best explanation I've seen.
+
+It's a surprisingly easy read! 
+
+http://ruder.io/optimizing-gradient-descent/ … 
+
+Definitely a good #100DaysOfMLCode project.pic.twitter.com/wrQ1aLVSvT
+---
+"A Beginner's Guide to the Mathematics of Neural Networks"
+
+... a nice gem 
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.3556&rep=rep1&type=pdf …pic.twitter.com/UZenr8PaaI
+---
+This is still one of the most impressive Deep Learning demos of 2018 - huge opportunity for new open-source Web Development tools based on merely 200 lines of Keras code. Anyone building any? 
+
+(Huge #100DaysOfMLCode opportunity, IMO)https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/ …
+---
+This is the most extensive list of "From Scratch Machine Learning" I've ever seen - this is a golden resource if your learn like I do (by building things from scratch).https://github.com/eriklindernoren/ML-From-Scratch …
+---
+For anyone who has ever thought - "Can I learn the math needed for Deep Learning all in one place (and maybe skip the other stuff)?" - this is quite a nice resource. 
+
+"The Matrix Calculus You Need For Deep Learning"
+http://explained.ai/matrix-calculus/index.html …
+
+(Table of Contents Below)pic.twitter.com/b4ETNBbO24
+---
+If you're learning Deep Learning - this is probably the most comprehensive list of (free) tutorials I've seen. Work through this list. It's even organized by subject!https://medium.com/machine-learning-in-practice/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78#hn …
+---
+The future is here - this is insane.https://twitter.com/hardmaru/status/1032762806796312576 …
+---
+I'm very excited to say that Grokking Deep Learning is finished!!!
+
+5 new chapters (over 70 pages) will be sent out via MEAP very soon (~next week). Until then, you can check out the code for these chapters at the Github!!!https://github.com/iamtrask/Grokking-Deep-Learning …
+---
+I couldn't agree more. @sirajraval is one of the best AI teachers in the business.https://twitter.com/demishassabis/status/1032596793094221827 …
+---
+Another great blogpost! One of the best summaries of the motivation for and potential for future work around Neural Arithmetic Logic Units!https://medium.com/analytics-vidhya/neural-arithmetic-logic-units-nalu-a-new-beginning-9b9b8a69eb32 …
+---
+In your opinion, Artificial Intelligence models should be funded by:
+---
+In your opinion, Artificial Intelligence should be created, owned, and distributed by:
+---
+Finished another chapter for Grokking Deep Learning! - learn how to build your own Deep Learning Framework as an exercise in understanding how frameworks work!!!
+
+I also just uploaded the code for Chapter 13 to Github!https://github.com/iamtrask/Grokking-Deep-Learning …
+---
+Came across a hilarious AI quote today...
+
+"The question of whether a computer can think is no more interesting than the question of whether a submarine can swim." - Edsger W. Dijkstra
+---
+An absolutely fantastic explanation of the theory and architecture behind our recent work!!! 
+
+If you want to learn about Neural Arithmetic Logic Units or Deep Learning more generally, check out this and other great @sirajraval lessons!!!https://twitter.com/sirajraval/status/1028543099008479233 …
+---
+Very excited to share that @DatazDude has already implemented the NALU in Keras (which was published today)!
+
+(If you come across any other implementations, please do let me know so I can share!!)https://twitter.com/DatazDude/status/1025462135084576768 …
+---
+One of the most exciting papers I've seen at the convergence of #AI and #cryptography - "Blind Justice: Fairness with Encrypted Sensitive Attributes"
+
+https://arxiv.org/pdf/1806.03281.pdf …
+---
+If you read no other paper on statistical/differential privacy, read this one. This is the one,
+
+"Calibrating Noise to Sensitivity in Private Data
+Analysis" - Dwork et al. 
+
+http://people.csail.mit.edu/asmith/PS/sensitivity-tcc-final.pdf …
+---
+Just came across an interesting theory on why Deep Learning generalizes so well, recently published.
+
+https://arxiv.org/abs/1805.08522 
+
+Background:http://www.ox.ac.uk/news/science-blog/%E2%80%98simplicity-bias%E2%80%99-science …
+---
+If you're interested in being ahead of the curve on this movement, come over to @openminedorg
+http://slack.openmined.org/ 
+---
+And I don't feel confident enough in attempts to scale decentralized VMs to say they could be within orders of magnitude of modern GPUs in terms of $ cost or runtime performance. Cryptography more generally, however, feels imminent and accessible.
+---
+Note - I exclude blockchain from this assessment, mostly because at the time of writing it has no bearing on trust models for private assets (people are working on this) and is impractically slow for use with AI. This might change, but that's my current thought.
+---
+Opening up the trust model will further cause an explosion of research by opening up new datasets to train on (which is the primary constraint on research). This will (by extension) create a subsequent boom in A.I. entrepreneurship.
+---
+Cryptography will completely change this. Users won't have to trust companies with their data. Companies won't have to trust users with their models. Models will be able to have multiple owners (enforced cryptographically), even controlled by votes of ownership/equity like stocks
+---
+Current AI tools force a single trust model on all users. All data for training or prediction, all predictions of the model, and future use of AI models themselves are entrusted to the same entity, the model owner (which is always just one entity, the person who owns the machine)
+---
+Precedence for the speed of mature fields which converge can be seen with the recent convergence of Reinforcement Learning and Deep Learning. Cryptography is a much larger field than RL with extremely far reaching implications.
+---
+IMO, the next big thing in A.I. is a convergence with #cryptography. Tools for intelligence and tools for trust will make for powerful social good. 
+
+IMO, this convergence will happen very quickly because #cryptography and A.I. are mature fields with many great ideas to combine.
+---
+If you're interested in interning on DeepMind's language team, we are looking for interns for 2019!https://deepmind.com/careers/1184837/ …
+---
+This would be a great project for #100DaysOfMLCode if you have experienced with Javascript ES6/7 and are interested in getting to know @PyTorch a bit betterhttps://twitter.com/iamtrask/status/1021128150909095937 …
+---
+Also DM me if you'd be interested in building an open source (lite) PyTorch backend in Javascript (ES6/7) - I'm @ trask on the slack team (http://slack.openmined.org/  )
+---
+DM me on slack if you're interested in doing some open source work with Tensorflow Eager (as a part of @openminedorg). I'm @ trask on the slack team (http://slack.openmined.org/ )
+---
+Tensorflow Eager seems pretty cool. Anyone tried it out and have thoughts on it?https://www.tensorflow.org/guide/eager 
+---
+Man - just found out about Python's "traceback" library. It lets you print the stack trace at any location. 
+
+Not sure what part of your program is triggering a specific event? This is the perfect tool.
+
+https://docs.python.org/2/library/traceback.html …
+---
+Hey folks - if you're participating in the #100DaysofMLCode challenge, feel free to hop into the Slack team at @openminedorg. We have lots of great projects relating to Private, Secure, and Multi-Owner Governed AI
+
+- differential privacy
+- federated learning
+- homomorphic encrypt
+---
+Came across and old tweet from @hardmaru I thought was worth re-sharing.https://twitter.com/hardmaru/status/859142066139353088 …
+---
+A nice surprise today! The codebase for Grokking Deep Learning is trending on Github!
+
+https://github.com/trending/jupyter-notebook?since=weekly …pic.twitter.com/Su7Tt0l3hL
+---
+If you're unsure whether this teaching style is for you, you can download the first few chapters at this link (https://goo.gl/xa3Vey ) and you can see all of the code at this link (https://github.com/iamtrask/Grokking-Deep-Learning …)
+---
+And I personally have found that I understand Mathematics far better when learning in an applied context as opposed to an abstract one, and that my time in Deep Learning has greatly enriched my understanding and love for Mathematics more than the other way around.
+---
+Note that this is in no way because I think math is a poor tool for teaching, using, or researching Deep Learning. I merely believe that to become a user of Deep Learning much of the math can be learned along the way, and you can use tools like numpy to help teach it.
+---
+For anyone interested, I'm (mostly done) writing a book which teaches Deep Learning using intuitive examples more than math. All code examples are on Github, written from scratch in Numpy
+
+If you think this is your learning style, you can download it here: https://goo.gl/xa3Vey 
+---
+Also, if you find bugs in the code, please let me know now before it goes to print 
+---
+I just added code for Chapter 10 of Grokking Deep Learning - it's an example showing how to build a Convolutional Layer from scratch (and train it on MNIST)https://github.com/iamtrask/Grokking-Deep-Learning …
+---
+was watching a spider weave a web this morning... amazing amount of intelligence even in the tiniest of creatures.
+---
+Useful tip I'm trying out - change your phone screen to grayscale to minimise the impact of features designed to be addictive
+---
+Very thorough report on the current state of the AI industry - if you're looking for a condensed update - this is it.https://twitter.com/NathanBenaich/status/1012656607719813120 …
+---
+This is some really good UX feedback for @PyTorch - I've made all of these mistakes on multiple occasions.https://twitter.com/karpathy/status/1013244313327681536 …
+---
+started reading The Cathedral and the Bazaar today... one of those books that really is as awesome as people say it is.
+---
+This blogpost by @ruben_seggers and @Koen_veen is one of the VERY first blogposts I've seen showing end-to-end #private training of a Convolutional Neural Network in a clean API. Very exciting read. It's a glimpse into the future of AI and privacy.https://twitter.com/openminedorg/status/1011600309637058560 …
+---
+My wife and I met playing music in undergrad in Nashville. If you like (indie) music, here's some clips we worked on last Saturday on our boat in Oxford.https://twitter.com/LeighAndLiam/status/1011006934844104705 …
+---
+Very excited to see @openminedorg featured in @sirajraval 's new School of AI!! https://www.theschool.ai/courses/decentralized-applications-b2 …
+---
+I'd love to hear from a geography expert whether geography at present creates more or less equality. Aka... if employment/citizenship wasn't impacted by where you lived, would we have a more or less fair world?
+---
+I agree with this - even if nothing new was invented for another 10 years - it would take that long before it was fully integrated into slow moving sectors like healthcare, govt services, consumer services, and finance. IMO, VC interest in AI is here to stay.https://twitter.com/Smerity/status/1008833245637537794 …
+---
+The Github repository for Grokking Deep Learning now has all code contained within the book - many thanks to @AmberLeighTrask!https://github.com/iamtrask/Grokking-Deep-Learning …
+---
+In your opinion, out of these options, which pursuit will make you the most happy?
+
+(For brevity "H" stands for happiness)
+---
+Will AGI be a discrete event (like... AGI happened on X day at X time) or will it be a slow progression into something that seems like AGI?
+---
+I think it's plausible that DJs will be replaced with AIs and that the transition could be quite fast. DJs rose to popularity so quickly because the cost of touring is a fraction of that required for a band. End-to-end music generation is merely the next step.
+---
+Netflix is the satellite TV of our generation .... thousands of movies and shows.... but nothing to watch.
+---
+You're never going to be who you think you want to be until you think you are who you want to be
+---
+When will the USA have its version of GDPR pass in Congress?
+---
+The regulation arbitrage is that the government has yet to catch up to regulating big businesses masquerading as small ones - (i.e., enforcing safety/security policies for AirBnbs like they do hotels, enforcing benefits for full time employees). It's the consumers that lose out
+---
+AirBnb, Uber, and Blockchain share something in common. They are copies of businesses that already existed - and the main competitive advantage is the ability to avoid capex & regulation by shifting the burden of both to consumers.
+
+IMO - this is a short lived advantage
+---
+If the @NipsConference deadline was extended by a week, how would you feel?
+
+(note - for curiosity purposes only... I have no control over this)
+---
+TIL - it is not actually correct to capitalize "Machine Learning" or "Deep Learning". It's not trademarked nor is it a proper noun.
+---
+Which of these 4 countries is leading in Artificial Intelligence Research?
+---
+Is it possible for a social network to provide its service to you (connecting you with family and friends) without the service being able to see your data?
+---
+Who would you rather trust to not collude against you?
+
+("collude against you" == agree to do you harm)
+---
+Will the decentralization/crypto movement actually displace fiat money ($,£,etc.) with cryptocurrencies for which there is no central authority?
+---
+Will most companies be GDPR compliant by May 25th?
+---
+If you had to pick one of these research areas as a full time job, which one would you choose?
+---
+Ladies and Gentlemen.... Just in time for @NipsConference deadline... i give you...
+
+... automatic conversion from Google Sheets -> Latex Tables...
+
+I think I just got years of my life back...https://chrome.google.com/webstore/detail/latexkit/piadpbgaacpbaicjilhfebbfgofomiic?utm_source=permalink …
+---
+For a weekly update on what's happening at the intersection of Artificial Intelligence and Cryptography, check out @mortendahlcs's Weekly Digs
+
+https://www.openmined.org/digs/tags/private-ml …
+---
+Very exciting blogpost - the most intuitive tutorial of Homomorphic Encryption I've seen. Great work by @proximation.
+
+https://blog.n1analytics.com/homomorphic-encryption-illustrated-primer/ …
+---
+I found this article about trials @goodfellow_ian went through as a young researcher (pre-GAN) to be very encouraging, reminds me of 1000 ways to not make a lightbulb
+
+(The main server it's hosted on is having trouble, so here's the google cached version)
+
+http://webcache.googleusercontent.com/search?q=cache:BfTFyo_C8dUJ:www.veronikach.com/how-i-fail/how-i-fail-ian-goodfellow-phd14-computer-science/+&cd=1&hl=en&ct=clnk&gl=uk …
+---
+A good friend of mine @mjmorosi once told me that the clean energy revolution has more or less happened because it's become so cheap - we're just waiting for large, physical assets to depreciate (like oil rigs). Only a matter of time.pic.twitter.com/Ylw6iJig3d
+---
+BAHAHAHAHAHA - this is easily the best fake deep learning propaganda I've ever seen. Hilariously relevant coffeebreak material if you're currently preparing for a @NipsConference submission!https://www.youtube.com/watch?v=UXd0EDy7aTY …
+---
+Facebook has open sourced and absolutely massive list of AI tools - many of which were released today.https://facebook.ai/developers/tools …
+---
+This is the future of how we'll do Deep Learning while protecting privacy. Super cool demo from last night's talk by @jvmancuso.
+
+Peer-to-peer Federated Learning using #IPFS and @PyTorch
+https://bit.ly/2HPdd9P pic.twitter.com/pMYCLL5SBW
+---
+"A Beginner's Guide to the Mathematics of Neural Networks"
+
+It's a super old school document (circa 1995) introducing the basics. It's super amusing to read.
+
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.3556&rep=rep1&type=pdf …
+---
+If you're learning convolutional neural nets - add this blog to your list.
+
+https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/ …
+---
+Found another killer in-browser neural networks demo - love it! 
+
+I'd like to see more apps do deep learning on the client side like this. Huge #privacy win.https://www.robinwieruch.de/neural-networks-deeplearnjs-javascript/ …
+---
+Whenever I want to learn about a new idea - I usually have to re-learn it from multiple blogposts/tutorials before it clicks. If you're learning convolutional nets - here's one you should review.
+
+http://brohrer.github.io/how_convolutional_neural_networks_work.html …
+---
+An intuitive sense of what's going on in neural networks is vital for debugging them and useful for doing novel research. 
+
+IMO - This blogpost can help you develop that intuition in your own mind by visualizing the latent space.https://distill.pub/2017/feature-visualization/ …
+---
+Training and eploying neural nets on mobile is hard - if you know how to do it - you'll stand out in a pile of job applicants. 
+
+Training data may live in the cloud, but it's born on mobile phones.https://attardi.org/pytorch-and-coreml …
+---
+This post is awesome! - I originally had to learn these bits of PyTorch by disecting example code (a bit tedious). This tutorial lays it out quite nicely.https://www.cpuheater.com/deep-learning/introduction-to-recurrent-neural-networks-in-pytorch/ …
+---
+Still the best in-browser demo of neural networks - super polishedhttp://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.72234&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false …
+---
+Very well crafted video series introducing neural networks.
+
+http://lumiverse.io/series/neural-networks-demystified …
+---
+For the casual user of PyTorch looking to become a power user - it's clear that a ton of work went into this post. Well worth the few minutes to read.
+
+http://ow.ly/9TP350h9DQl 
+---
+This tutorial has a great line-by-line breakdown of how to train a pong RL agent in PyTorch.http://ow.ly/ntC550h9DIj 
+---
+The difference between one optimizer vs another (SGD vs Adam?) can be pretty vague. @seb_ruder does a nice job unpacking them here. Might be a bit heavy on notation for some, but it's explained well.http://ruder.io/optimizing-gradient-descent/ …
+---
+A website dedicated to helping people find the dream job!!!... remote work in Machine Learning!! Great job @dqmonn
+https://remoteml.com/   
+
+CC:@levelsio
+---
+If you're looking for the right introduction to Neural Networks and Language - this blogpost by @explosion_ai is it.https://explosion.ai/blog/deep-learning-formula-nlp …
+---
+Probably the best GANs tutorial I've seen - written by @devnaghttps://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f …
+---
+Just overhead an intriguing idea - the human awareness of time is a lot like a 6th sense - helping to interpret and contextualize our other 5 senses.
+
+
+---
+If you're looking for no-nonsense Tensorflow boilerplate, this is a good example XOR implementation.https://github.com/StephenOman/TensorFlowExamples/blob/master/xor%20nn/xor_nn.py …
+---
+Came across a nice intro tutorial to RNNs in Tensorflowhttps://medium.com/@erikhallstrm/hello-world-rnn-83cd7105b767 …
+---
+The fashion industry seems to do this, for example. Best guess... signs of high-class keep changing as they get adopted by other classes. Presumably, this is why things that are "rare" have more value in fashion? They have a longer shelf life. (not my area though)
+---
+Thus, plants are attempting to Generate samples that seem poisonous, while animals are attempting to Discriminate poisonous from non. This battle for meaning also seems to happen elsewhere.
+---
+Smell/taste in nature reminds me of GANs. Plants are (presumably) trying to send off a scent/taste encoding the meaning "don't eat me! I'm poisonous" while animals are (presumably) trying to decode from the taste/smell which plants are actually poisonous or delicious.
+---
+This blog is incredible - it compares the ways in which people die (cancer, car accident, etc.) relative to the amount each topic is covered by the media.
+
+https://owenshen24.github.io/charting-death/ 
+---
+This chart makes for an interesting comparison with what politicians talk about day to day.https://ourworldindata.org/what-does-the-world-die-from …
+---
+Eye fatigue is super disorienting and confusing, and it takes weeks to properly recover.
+---
+I used to discount this but - eye fatigue is real guys - the 20-20-20 rule is saving my life these days.
+
+Every 20 minutes, look at something >20 feet away, for 20+ seconds.
+
+Get into the habit of doing it before you have to. You'll be glad you did.
+---
+A great example of negative externalities in a market that lacks regulation.https://twitter.com/Serrels/status/984220359267250176 …
+---
+.@Smerity is awesome. This interview is great!https://twitter.com/sirajraval/status/984416286380879872 …
+---
+Very inspired by OpenAI's new charter.https://blog.openai.com/openai-charter/ 
+---
+Yesterday I gave an overview of OpenMined on the MLMU Youtube Livestream. If you're interested in Privacy and Artificial Intelligence you might find it interesting.https://www.youtube.com/watch?v=oggJP1Z6DLg …
+---
+This is one of the great things about a republic. Everyone gets a voice, but there's also a process through which individuals are held accountable. Not a perfect system, but pure decentralization is not an improvement.
+---
+The illusion that everyone is in direct control through voting also decentralizes accountability. This hurts transparency and fairness. A world in which no-one is at fault for tragic events is not a good one.
+---
+Decentralized leadership is like all 6 passengers grabbing the wheel at the same time arguing over where we should go.
+
+51% may get what they want, but they might drive off a bridge in the process. And by 51%, I mean 51% of the strength, not 51% of the people. (2/2)
+---
+Centralized leadership is like a selfish taxi driver that charges unfair prices or kicks passengers out early, but in a transparent market bad behavior is a competitive disadvantage. Transparency promotes fairness, and the passenger is, in the long run, the one in control. (1/2)
+---
+Anonymous Proof-of-Stake and Anonymous, Decentralized Betting markets are fundamentally rule by the rich. If you can write a big enough check, you can cause anything to happen. I fundamentally disagree that these mechanisms create fair and transparent markets.
+---
+I came across a rather extraordinary gem today.
+
+"Fair Decentralized Concensus Is Impossible" - a small, formal proof by @BenLaurie (https://en.wikipedia.org/wiki/Ben_Laurie  ) 
+
+http://www.links.org/files/dpoi.pdf 
+---
+I really hope privacy is a solved problem before we get to ubiquitous brain-computer interfaces.https://twitter.com/BrendanEich/status/981964188607270912 …
+---
+Fun fact - it costs over $300,000 to upload MNIST to the Ethereum blockchain.
+---
+It just seems like the marketing machine behind Proof of Work/Stake can only last so long - at some point it has to have a better cost/risk profile - and it seems like centralized sources + cryptographic transparency are going to have both lower cost and lower risk.
+---
+And to boot - the services they provide tend to be more efficient.
+---
+However, transparent centralized sources lose reputation - which is a proxy for *all future cashflows*. Anonymous 51% members lose a well defined amount... centralized sources put it all on the line every day.
+---
+I've recently been wondering if enforcing transparency of centralized sources (using cryptography) might actually be a better solution.
+
+Proof of Work/Stake only forces each member of the crowd to lose whatever they "stake". (cont.)
+---
+https://www.reddit.com/r/Electroneum/comments/88wbkv/electroneum_is_probably_under_a_51_attack_right/ …
+---
+The Decentralization movement seeks to change who is in control under the assumption that the majority of the crowd (51%) will not *decide* exploit the minority of the crowd (49%) for profit.
+
+I think history has shown us that this is a risky assumption.
+---
+I'm interested in actionable research comparing healthy social interactions with what digital tools encourage. Specifically I'd like clarity on both the good and the bad and how I can measure the impacts in my own social interactions
+---
+https://www.theguardian.com/commentisfree/2018/apr/03/facebook-abusing-data-law-privacy-big-tech-surveillance …
+
+"The basic principle is that a system must be designed not to collect certain data, if its basic function can be carried out without that data."
+---
+Happy Easter!!!
+---
+Lots of folks are optimistic about #blockchain. I recently came across a difficult question...
+
+If a zero-knowledge proof can prove to users that a centralized service performed honest computation, why decentralize it? 
+
+We live in free markets... I see a correction coming...
+---
+There's a hidden gem about blockchains in this blogpost.https://deepmind.com/blog/trust-confidence-verifiable-data-audit/ …
+---
+There's a lot of conversation happening around privacy (or lack there of it) these days - if you're looking for the next big thing in AI research - my money is on Privacy-Preserving AI. 
+
+The two big subjects there are Differential Privacy and Federated Learning.
+---
+Takeaway - The future of Marketing is word-of-mouth using privacy preserving technologies. If you're in Marketing and want to innovate, invest in knowledge around these new tools!
+---
+Fast, cheap, privacy preserving word-of-mouth is the greatest threat to the current Marketing industry, and the greatest opportunity to the health of society. It may even include social transparency (i.e. are Instagram influencers actually happier because of their stuff?) (3/3).
+---
+In the future, privacy preserving technologies will eliminate arbitrage opportunities between buyer and seller by allowing sellers to privately share aggregate information about products and services without anyone disclosing their own personal preferences (2/3).
+---
+The relationship between Buyer and Seller of a product/idea/political agenda is based on a "Claim" from the Seller that a product will achieve an outcome for the Buyer which may or may not be entirely accurate. In practice its often exaggerated. (1/3)
+---
+Truly great work coming out of the Ethics and Society group at @DeepMindAIhttps://medium.com/@Ethics_Society/the-case-for-fairer-algorithms-c008a12126f8 …
+---
+Although hidden markov models certainly have some of this going on
+---
+I'm not sure the same can be said for many other counting-based mechanisms which update their internal state irrespective of what the current state actually is (such as simple frequency distributions)
+---
+Perhaps a reason neural nets learn so efficiently is because they learn by trial and error. During training, each forward propagation is not just conditioned on the input, but also on the current state of the weights, which is subtly conditioned on every example seen so far.
+---
+Private ML Google of the Day - "Bayesian Truth Serum"
+---
+I believe this paper will be one of the most important Privacy-preserving ML papers of the year. Proposes practical methods for measurement and defense.
+
+https://arxiv.org/pdf/1802.08232.pdf …
+---
+FWIW - Neural Networks were black boxes to me until I tried to make one from scratch without looking at a reference. It was painful (and humbling) at the start but it helped me realize how the little moving parts work together.
+
+For new and old - I highly recommend this exercise
+---
+If you're interested in Private AI, here's a great (and growing!) list of resources put together by @gavinuhmahttps://github.com/OpenMined/awesome-ai-privacy/blob/master/README.md …
+---
+10 years from now - who will have primary control over consumer data? 
+
+(control ~= ability to delete, copy, send, trade, etc.)
+---
+This is so deep... https://twitter.com/nedwards/status/969800401624141824 …
+---
+Just discovered @dat_project - easily one of the coolest projects out there for the Web 3.0. I remember @BeakerBrowser but this new project is a whole new level.
+---
+it's amazing to think how many billions (trillions?) of dollars a year are spent building infrastructure for no other reason than humans are dishonest - cryptography, prisons, VMs, locks, doors, fenses, walls...
+
+... i wonder what % of the GDP is driven by this.
+---
+Often I have a hard time coding when listening to music with words - so I tend to listen to a ton of movie scores...
+
+The soundtrack to "How to Train Your Dragon 2" is in a league of its own...
+---
+For maybe ten years - I've wished I had a watch that simply displayed the number of seconds since I was born - but I've never set aside the time to make one
+---
+Floating Snowpic.twitter.com/OL3CidzNVM
+---
+Question: do you think that our minds use language to compute logical operations - or do you think that our minds are logical in and of themselves and merely use language to translate the internal logic into an audible/written form?
+---
+I'm convinced the best coding music is Funk music
+---
+Does anyone know why GANs aren't solving for adversarial attacks? It's a loss function that explicitly exists to do so...https://twitter.com/fchollet/status/967123354661535744 …
+---
+Networks that build and enforce trust are more efficient (and by extension valuable) than networks that require no trust - which are often un-necessarily slow via irrelevant participation. I propose:
+
+Verifiable Accountability > Decentralization
+
+...let's discuss...
+---
+Just heard @Miles_Brundage talking about AGI safety on the radio (Jack FM) of my taxi!!!
+---
+Heads up - @karpathy is reading blockchain tutorialshttps://twitter.com/karpathy/status/963665207968100354 …
+---
+This is the google trends chart for "Artificial Intelligence" (in blue) and "Safe AI" (in red) from January 2004 to today.
+
+- Safe AI barely registers (AI Safety was similar)
+- We haven't yet reached hype levels of 2004?pic.twitter.com/eiqEchqCJT
+---
+I'm 5 minutes into using Jupyter Lab - it's so amazing.... it has everything I ever wanted in Jupyter.
+---
+I contemplated not sending this tweet on the off chance it hurt future job prospects - but tbh - I think I'd rather hire someone under-qualified who was expecting bust his tail learning on the job (who will likely continue to be a high-growth employee) than the opposite.
+---
+I don't think I've ever applied for (or accepted) a position that I felt I was 100% qualified for - if I don't think I'll have to grow/learn a bit - it's probably not worth my time.
+
+There's obviously a limit - but I think it's good food for thought if you're on the job hunt.
+---
+I can't begin to describe my excitement about this announcement - I'm a huge Jupyter fan -https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906 …
+---
+I think this is useful to consider - many tasks in AI aren't limited by effective Models - they're limited by effective training data. Occasionally we can make models that help us with that. RL is a great example.
+---
+Deep RL (esp pol grad) is useful because it creates labeled training data for tasks that would otherwise be hard to do so. A dataset for every muscle a robot should move in order to walk is hard... a detector for whether an agent walked through a door is easy.
+---
+listening to the Lord of the Rings soundtrack while coding today - forgot how truly epic it is
+---
+I know I've shared it before - but I still think this is easily the most interesting AI related blogpost on the internet.
+
+http://mortendahl.github.io/2017/09/19/private-image-analysis-with-mpc/ …
+---
+Just got mailed a royalties check for a book I did not write... i guess life is good
+
+(also... would the real Andrew Trask please stand up?)
+---
+Loss function patterns are very mysterious things - particularly when they appear to be diverging... only to reverse and descend to a new low. How in the world do gradient based methods know to climb in order to descend... that's still pure magic to me.
+---
+The downfall of the education system as we know it has begun - online education is the future - merit based acceptance is the future - and MIT is kicking off the change.
+
+Long live accessible education!http://www.wbur.org/edify/2017/07/11/masters-mit-poverty-lab …
+---
+I recently gave an interview talking about @openminedorg and where I see the future of Private Machine Learning and AI Security.  If you're curious about such things, you can find it here.https://epicenter.tv/episode/217/ 
+---
+If you're interested in AI Safety research, I highly recommend checking out the @FHIOxford's internship in Reinforcement Learning and AI Safety. You'll be hardpressed to find another place filled with such an amazing combination of intellect and kindness.https://www.fhi.ox.ac.uk/fhi-is-accepting-applications-for-internships-in-the-area-of-ai-safety-and-reinforcement-learning-2/ …
+---
+Just let these statistics sink in for a second...https://twitter.com/ecoinomia/status/953230712269832193 …
+---
+I wonder how people will get their news in 5+ years.
+---
+this is hilarious - a centralized decentralized currency which citizens must spend $$ mining on their own dime to earn... but it's backed by the government?https://twitter.com/avsa/status/950475200726003714 …
+---
+I feel like a significant percentage of Deep Learning breakthroughs ask the question "how can I reuse weights in multiple places?"
+
+- Convolutional layers reuse in multiple locations. 
+- Recurrent (LSTM) layers reuse for multiple timesteps
+- Capsules reuse across orientation.
+---
+HLSL - I have scoured the internet looking for a single matrix library that support larger than a 4x4 matrix... anyone know of one?
+---
+Happy New Year!!!
+---
+Came across a pretty sweet track from an old friend from undergrad - great to code to - really jams out.
+
+Drift by @JBJoshBlaylock https://open.spotify.com/track/6tbapY1FckN1lFX4AYgeTG … … #NowPlaying
+---
+Merry Christmas!
+---
+I'm a huge fan of everything @explosion_ai does... they're brilliant... and their new annotation tool is the best I've ever seen.https://twitter.com/explosion_ai/status/940189364025470981 …
+---
+The most amazing keyboard shortcut!!!! In Jupyter Notebook, restarting the kernel is "Escape" followed by the "0" key twice!!!
+---
+well... i'm 27 now.. can I still say "mid 20s" or is 27 the cutoff for "late 20s"
+---
+Does Twitter treat liking and retweeting as basically the same these days? - seems like I get "so and so liked X" all the time in my feed... does anyone else understand this?
+---
+So much of the web has nothing to do with the content - and everything to do with the peer pressure of "here's how greatly the rest of the world values this thing"
+---
+Idea - A Browser called "The Red Pill" - which blocks (in addition to ads) any kind of "like", "star", or "follower" count and any other dopamine inducing web event - leaving only the actual contents of the web. How crazy would that be?!?!
+---
+Super cool visualization on which nations impact climate change and how!https://whoisresponsible.us/ 
+---
+..... it's been 40 years since the first Star Wars came out..... 
+
+.... 40 YEARS?!?!?!!
+---
+and can you imagine what a competitor could do with this up against a company like @Elastic or @Oracle ?
+---
+That's a huge realization - I consider it to be a race for whoever can make the library that makes this kind of tech ubiquitous..., we need this supported in Python by default - yesterday.
+---
+even the scale of these claims is hard to imagine - and hard to rectify with trends like moore's law - time will tell whether these percentages are the norm - but it wouldn't surprise me. As he points out, most data structures are engineered to assume the worst.
+---
+So many problems come down to performance/RAM - if he believes that we can improve upon core data structure performance like this - and bake it into hardware - it's a wholesale upgrade to what is computationally feasible so an unbelievable number of systems... simultaneously.
+---
+And it's not just what the paper says - but the "who" that is saying it. Jeffrey Dean is in the position to actually realize this technology into ubiquity.
+---
+This paper is an absolute monster - the trickle-down implications of an advancement this low-level and general purpose are too great to imagine at this point. Truly in awe.
+
+"The Case for Learned Index Structures" - https://www.arxiv-vanity.com/papers/1712.01208v1/ …
+---
+lot of snow in Oxford today!! - our boat has a nice frosty top.pic.twitter.com/E0B2VNyZz2
+---
+in undergrad (2012) - I had a small datacenter in my laundry room of 40 rackmounted Dell Poweredge servers.... 
+
+one day a friend came over and said "hey.... you should mine bitcoin".... 
+
+he even installed it for me on one of my machines...
+
+...i trained neural nets instead....
+---
+if "other" - please expand
+---
+If AI will be Decentralized, how will it be?
+---
+If AI will be Centralized, how will it be?
+---
+Is all Deep Learning also A.I.? 
+
+(please reply with counterexamples where appropriate)
+---
+Please provide counter examples :)
+---
+Is there any Machine Learning that is not also A.I.?
+---
+I drink more cold coffee than warm coffee....
+---
+Absolutely brilliant blogpost on AI Safety!! Great job @janleike , @vkrakovna , and Laurent Orseau!!!https://deepmind.com/blog/specifying-ai-safety-problems/ …
+---
+One of the greatest lessons my mother ever taught me - "nothing that's worth anything is easy" - hope you find your challenging days as a positive sign that you're doing something right
+---
+.@vulfpeck is some of the best coding/jamming music out there.
+---
+DLPaper2Code: Auto-generation of Code from Deep Learning Research Papers
+
+Soon you won't even have to run experiments! Just write the paper and your tables will populate themselves!! https://arxiv.org/abs/1711.03543 
+---
+launching StarCraft AI players on a grad student budget just became a little bit easier!!https://arstechnica.co.uk/gaming/2017/11/starcraft-ii-goes-free-to-play-seven-years-after-launch/ …
+---
+And just like that.... the future became the present.https://techcrunch.com/2017/11/07/waymo-now-testing-its-self-driving-cars-on-public-roads-with-no-one-at-the-wheel/ …
+---
+Fantastic Github project on Federated Learning for Androidhttps://github.com/mccorby/FederatedAndroidTrainer …
+---
+chilling in Atlanta airport waiting to fly to Cancun - pretty much every person on the flight is going to #Devcon3
+---
+. @openminedorg was cited and discussed in an ICLR submission! (promise it wasn't me) - https://openreview.net/pdf?id=r1ayG7WRZ …
+---
+I'd like to learn more about anyone using AI for the things in life that really matter - is anyone working on this?
+---
+just learned about the Conference on Economics and Computation - very cool theme http://www.sigecom.org/ec17/ 
+---
+This is surprisingly true - also true for musical instruments (starts very mechanical / technical... becomes artistic later)https://twitter.com/fchollet/status/922579229681754112 …
+---
+The @alphagomovie is an extraordinary film. I left with a deeper respect for what it means to be human. A truly rare, precious experience.
+---
+this seems like something that could happen virtually overnight... free, online libraries
+---
+unless of course the government bought it direct from the authors... which would be even better for the public... disastrous for Amazon
+---
+seems like a win for Amazon and for the public... with significant precedent in American history
+---
+what if Amazon existed as a public library where the government purchased e-books for the community to read for free?
+---
+interesting video work from @twentybn - looks like they're hiring as well -https://medium.com/twentybn/watch-and-learn-building-an-ai-that-understands-the-world-through-video-9e2796400176 …
+---
+My wife and I totally rediscovered Switchfoot today.... The Beautiful Letdown is an absolute masterpiece.
+---
+An absolutely brilliant blogpost from @mortendahlcs combining Multiparty Computation and Deep Learning. http://mortendahl.github.io/2017/09/19/private-image-analysis-with-mpc/ …
+---
+Easily the best Tutorial Series on Multi-Party Computation I've found anywhere on the web - by @mortendahlcs - http://mortendahl.github.io/ 
+---
+In 2 hours, #OpenMined is having their 3rd State of the Community meeting - come see DEMOs of new features!!! 
+
+https://www.youtube.com/watch?v=3NL0gHuvdW8 …
+---
+One more Celebration!!!!... #OpenMined is now the top trending Python project on Github AND we just passed 1,000 Slack team members!!!pic.twitter.com/DT8DrG0va6
+---
+#OpenMined is now the 2nd Highest Trending Python Repo on Github!!!!
+
+Come Join!!! : https://join.slack.com/t/openmined/shared_invite/enQtMjQzNjExMzkwODgyLTQ5YWNiOWE0OTRkNDhjNDNhOTkwZThjOTJiZWVhOGE1ZGU1Njg0YTRhNWYxZWY1NTZmNWZmY2EyMGI1NjA5N2M …pic.twitter.com/q6zE06FchN
+---
+#OpenMined's PySyft Repo is TRENDING ON GITHUB!!!!!!
+
+https://github.com/trending/python?since=daily …pic.twitter.com/0nzSaoEM7Q
+---
+Very big announcement today!!! Youtube Celebrity @sirajraval has just done a brilliant video on #OpenMined.https://www.youtube.com/watch?v=HAC6sqq7_-U&feature=youtu.be …
+---
+Farewell Theano... you changed the world for the better.https://groups.google.com/forum/#!topic/theano-users/7Poq8BZutbY …
+---
+If you're looking to become a professor in Computer Science, the CS lab I first learned Neural Networks in is hiring https://jobs.belmont.edu/postings/5984 
+---
+NEW TEAM!! - Federated & Decentralized Machine Learning for iOS & Android - join #team_mobile on our Slack
+
+Invite: https://join.slack.com/t/openmined/shared_invite/enQtMjQzNjExMzkwODgyLTQ5YWNiOWE0OTRkNDhjNDNhOTkwZThjOTJiZWVhOGE1ZGU1Njg0YTRhNWYxZWY1NTZmNWZmY2EyMGI1NjA5N2M …
+---
+*standing ovation* - this guy deserves a medal https://twitter.com/davegershgorn/status/912333659822321665 …
+---
+Has anyone done Neural Style Transfer for AR yet? I'd love to see my living room get DaVincied
+---
+Excited to announce that in less than 36 hrs...we've gone from 480 to over 600 contributors on #OpenMined Slack!!! 
+
+https://join.slack.com/t/openmined/shared_invite/enQtMjQzNjExMzkwODgyLTQ5YWNiOWE0OTRkNDhjNDNhOTkwZThjOTJiZWVhOGE1ZGU1Njg0YTRhNWYxZWY1NTZmNWZmY2EyMGI1NjA5N2M …
+---
+has anyone done reverse Neural Style transfer and tried to take famous paintings and infer the real world places they're drawings of?
+---
+"The problem is that when we outsource thinking to machines, we are really outsourcing thinking to the organisations that run the machines."
+---
+Happy to announce that #OpenMined just passed its 500th Slack team member today its 2 month birthday!!! 
+
+To join: https://join.slack.com/t/openmined/shared_invite/enQtMjQzNjExMzkwODgyLTQ5YWNiOWE0OTRkNDhjNDNhOTkwZThjOTJiZWVhOGE1ZGU1Njg0YTRhNWYxZWY1NTZmNWZmY2EyMGI1NjA5N2M …
+---
+"the future of education is as a 'lifelong service provider' not a 'onetime service provider' " - @SebastianThrun 
+
+...absolutely spot on!
+---
+if you're interested in helping me with a prototype combining Multi-Party Computation and Deep Learning, hit me up on #OpenMinedSlack
+---
+very large, unbalanced trees + GPU == small nightmare
+---
+A personal site that looks like 1994 is the "disheveled academic" look of our gen.
+
+Me: woah.. nice site
+Prof: oh that ole thing?
+Me: *sigh*
+---
+Beautiful analogyhttps://twitter.com/drfeifei/status/908745466170322944 …
+---
+Let's build the future we want, not the future we may assume is inevitable. #OpenMined
+---
